@@ -1,0 +1,1403 @@
+{
+    "References": [
+        [
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['1. Bengio, Y., Mesnard, T., Fischer, A., Zhang, S., Wu, Y.: STDP as presynaptic activity times rate of change of postsynaptic activity. arXiv preprint arXiv:1509.05936 (2015)']",
+                "list_authors": [
+                    "Wu",
+                    "arXiv:1509.05936"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['2. Bohte, S.M., Kok, J.N., La Poutre, H.: Error-backpropagation in temporally encoded networks of spiking neurons. Neurocomputing 48(1), 17\u201337 (2002)']",
+                "list_authors": [
+                    "La Poutre"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['3. Booij, O., tat Nguyen, H.: A gradient descent rule for spiking neurons emitting multiple spikes. Information Processing Letters 95(6), 552\u2013558 (2005)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['4. Clopath, C., Bu\u0308sing, L., Vasilaki, E., Gerstner, W.: Connectivity reflects coding: a model of voltage-based STDP with homeostasis. Nature Neuroscience 13(3), 344\u2013 352 (2010)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['5. Dayan, P., Abbott, L.F.: Theoretical Neuroscience, vol. 806. Cambridge, MA: MIT Press (2001)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['6. Diehl, P.U., Cook, M.: Unsupervised learning of digit recognition using spiketiming-dependent plasticity. Frontiers in Computational Neuroscience 9 (2015)']",
+                "list_authors": [
+                    "Cook"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['7. Ghosh-Dastidar, S., Adeli, H.: A new supervised learning algorithm for multiple spiking neural networks with application in epilepsy and seizure detection. Neural Networks 22(10), 1419\u20131431 (2009)']",
+                "list_authors": [
+                    "Ghosh-Dastidar"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['8. Gu\u0308tig, R., Sompolinsky, H.: The tempotron: a neuron that learns spike timing\u2013 based decisions. Nature Neuroscience 9(3), 420\u2013428 (2006)']",
+                "list_authors": [
+                    "Sompolinsky"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['9. Kheradpisheh, S.R., Ganjtabesh, M., Thorpe, S.J., Masquelier, T.: STDPbased spiking deep neural networks for object recognition. arXiv preprint arXiv:1611.01421 (2016)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['10. LeCun, Y., Bengio, Y., Hinton, G.: Deep learning. Nature 521(7553), 436\u2013444 (2015)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['11. Markram, H., Lu\u0308bke, J., Frotscher, M., Sakmann, B.: Regulation of synaptic efficacy by coincidence of postsynaptic aps and epsps. Science 275(5297), 213\u2013215 (1997)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['12. Ponulak, F., Kasin\u0301ski, A.: Supervised learning in spiking neural networks with resume: sequence learning, classification, and spike shifting. Neural Computation 22(2), 467\u2013510 (2010)']",
+                "list_authors": [
+                    "Kasin\u0301ski"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['13. Querlioz, D., Bichler, O., Dollfus, P., Gamrat, C.: Immunity to device variations in a spiking neural network with memristive nanodevices. IEEE Transactions on Nanotechnology 12(3), 288\u2013295 (2013)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['14. Scellier, B., Bengio, Y.: Equilibrium propagation: Bridging the gap between energybased models and backpropagation. Frontiers in Computational Neuroscience 11 (2017)']",
+                "list_authors": [
+                    "B.",
+                    "Bengio"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['15. Song, S., Miller, K.D., Abbott, L.F.: Competitive hebbian learning through spiketiming-dependent synaptic plasticity. Nature Neuroscience 3(9), 919\u2013926 (2000)']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['16. Xie, X., Seung, H.S.: Spike-based learning rules and stabilization of persistent neural activity. In: Advances in Neural Information Processing Systems. pp. 199\u2013 208 (2000)']",
+                "list_authors": [
+                    "Xie"
+                ]
+            },
+            {
+                "id": "2203.03379v1",
+                "raw_ref": "['17. Xie, X., Qu, H., Yi, Z., Kurths, J.: Efficient training of supervised spiking neural network via accurate synaptic-efficiency adjustment method. IEEE Transactions on Neural Networks and Learning Systems 28(6), 1411\u20131424 (2017)']",
+                "list_authors": []
+            }
+        ],
+        [
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Baldassarre, G. and Mirolli, M. (2013). Intrinsically motivated learning in natural and artificial systems.']",
+                "list_authors": [
+                    "G."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Springer.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Barton, S. L., Waytowich, N. R., Zaroukian, E., and Asher, D. E. (2018). Measuring collaborative emergent behavior in multi-agent reinforcement learning. In International Conference on Human Systems Engineering and']",
+                "list_authors": [
+                    "Barton",
+                    "S. L.",
+                    "N. R.",
+                    "Asher",
+                    "D. E."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Design: Future Trends and Applications, pages 422\u2013']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['427. Springer.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Burda, Y., Edwards, H., Pathak, D., Storkey, A., Darrell, T., and Efros, A. A. (2018). Large-scale study of curiositydriven learning. arXiv preprint arXiv:1808.04355.']",
+                "list_authors": [
+                    "A. A."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Carroll, M., Shah, R., Ho, M. K., Griffiths, T., Seshia, S., Abbeel, P., and Dragan, A. (2019). On the utility of learning about humans for human-ai coordination. Advances in neural information processing systems, 32.']",
+                "list_authors": [
+                    "M. K.,"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Chentanez, N., Barto, A. G., and Singh, S. P. (2005). Intrinsically motivated reinforcement learning. In Advances in neural information processing systems, pages 1281\u2013']",
+                "list_authors": [
+                    "S. P."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['1288. de Abril, I. M. and Kanai, R. (2018). A unified strategy for implementing curiosity and empowerment driven reinforcement learning. arXiv preprint arXiv:1806.06505.']",
+                "list_authors": [
+                    "de Abril",
+                    "I. M."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Eysenbach, B., Gupta, A., Ibarz, J., and Levine, S. (2018).']",
+                "list_authors": [
+                    "B."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Diversity is all you need: Learning skills without a reward function. arXiv preprint arXiv:1802.06070.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Gregor, K., Rezende, D. J., and Wierstra, D. (2016).']",
+                "list_authors": [
+                    "D. J."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Variational intrinsic control. arXiv preprint arXiv:1611.07507.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Guckelsberger, C., Salge, C., and Colton, S. (2016). Intrinsically motivated general companion npcs via coupled empowerment maximisation. In 2016 IEEE Conference on Computational Intelligence and Games (CIG), pages 1\u20138. IEEE.']",
+                "list_authors": [
+                    "S.",
+                    "npcs"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Guckelsberger, C., Salge, C., and Colton, S. (2016). Intrinsically motivated general companion npcs via coupled empowerment maximisation. In 2016 IEEE Conference on Computational Intelligence and Games (CIG), pages 1\u20138. IEEE.']",
+                "list_authors": [
+                    "S.",
+                    "npcs"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Guckelsberger, C., Salge, C., and Togelius, J. (2018). New and surprising ways to be mean. adversarial npcs with coupled empowerment minimisation. arXiv preprint arXiv:1806.01387.']",
+                "list_authors": [
+                    "npcs"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Hu, H., Lerer, A., Peysakhovich, A., and Foerster, J. (2020).']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['\u201d other-play\u201d for zero-shot coordination. arXiv preprint arXiv:2003.02979.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Jaderberg, M., Czarnecki, W., Dunning, I., Marris, L., Lever, G., Castaneda, A., et al. (2018). Human-level performance in first-person multiplayer games with population-based deep reinforcement learning. arxiv. arXiv preprint arXiv:1807.01281.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Jaques, N., Lazaridou, A., Hughes, E., Gulcehre, C., Ortega, P., Strouse, D., Leibo, J. Z., and De Freitas, N. (2019).']",
+                "list_authors": [
+                    "Ortega",
+                    "J. Z.",
+                    "N."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Social influence as intrinsic motivation for multi-agent deep reinforcement learning. In International Conference on Machine Learning, pages 3040\u20133049. PMLR.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Karl, M., Soelch, M., Bayer, J., and Van der Smagt, P.']",
+                "list_authors": [
+                    "Karl",
+                    "Smagt"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['(2016). Deep variational bayes filters: Unsupervised learning of state space models from raw data. arXiv preprint arXiv:1605.06432.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Karl, M., Soelch, M., Becker-Ehmck, P., Benbouzid, D., van der Smagt, P., and Bayer, J. (2017). Unsupervised real-time control through variational empowerment. arXiv preprint arXiv:1710.05101.']",
+                "list_authors": [
+                    "Karl",
+                    "Becker-Ehmck",
+                    "Smagt"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Klyubin, A. S., Polani, D., and Nehaniv, C. L. (2005). All else being equal be empowered. In European Conference on Artificial Life, pages 744\u2013753. Springer.']",
+                "list_authors": [
+                    "A. S.",
+                    "C. L. (2005"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Lerer, A. and Peysakhovich, A. (2018). Learning social conventions in markov games. arXiv preprint arXiv:1806.10071.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Leu, A., Ristic\u0301-Durrant, D., Slavnic\u0301, S., Glackin, C., Salge, C., Polani, D., Badii, A., Khan, A., and']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Raval, R. (2013). Corbys cognitive control architecture for robotic follower. In Proceedings of the 2013']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['IEEE/SICE International Symposium on System Integration, pages 394\u2013399. IEEE.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['IEEE/SICE International Symposium on System Integration, pages 394\u2013399. IEEE.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Li, S., Wu, Y., Cui, X., Dong, H., Fang, F., and Russell, S.']",
+                "list_authors": [
+                    "Li",
+                    "Wu",
+                    "Russell"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['(2019). Robust multi-agent reinforcement learning via minimax deep deterministic policy gradient. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 33, pages 4213\u20134220.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Lowe, R., Wu, Y. I., Tamar, A., Harb, J., Abbeel, O. P., and Mordatch, I. (2017). Multi-agent actor-critic for mixed cooperative-competitive environments. In Advances in neural information processing systems, pages']",
+                "list_authors": [
+                    "Wu",
+                    "Y. I.",
+                    "O. P."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['6379\u20136390.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Lupu, A., Cui, B., Hu, H., and Foerster, J. (2021). Trajectory diversity for zero-shot coordination. In International']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Conference on Machine Learning, pages 7204\u20137213.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['PMLR.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Mahajan, A., Rashid, T., Samvelyan, M., and Whiteson, S.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['(2019). Maven: Multi-agent variational exploration. In']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Advances in Neural Information Processing Systems, pages 7613\u20137624.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Murphy, K. P. (2022). Probabilistic Machine Learning: An introduction. MIT Press.']",
+                "list_authors": [
+                    "Murphy",
+                    "K. P."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Nair, R., Tambe, M., Yokoo, M., Pynadath, D., and Marsella, S. (2003). Taming decentralized pomdps: Towards efficient policy computation for multiagent settings. In']",
+                "list_authors": [
+                    "Marsella",
+                    "S."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['IJCAI, volume 3, pages 705\u2013711. Citeseer.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Osborne, M. J. et al. (2004). An introduction to game theory, volume 3. Oxford university press New York.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Oudeyer, P.-Y. and Kaplan, F. (2009). What is intrinsic motivation? a typology of computational approaches. Frontiers in neurorobotics, 1:6.']",
+                "list_authors": [
+                    "Kaplan"
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Pathak, D., Agrawal, P., Efros, A. A., and Darrell, T. (2017).']",
+                "list_authors": [
+                    "A. A."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Curiosity-driven exploration by self-supervised prediction. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pages']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['16\u201317.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Salge, C. and Polani, D. (2017). Empowerment as replacement for the three laws of robotics. Frontiers in']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Robotics and AI, 4:25.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Strouse, D., Kleiman-Weiner, M., Tenenbaum, J., Botvinick, M., and Schwab, D. J. (2018). Learning to share and hide intentions using information regularization. In']",
+                "list_authors": [
+                    "Schwab",
+                    "D. J."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Advances in Neural Information Processing Systems, pages 10249\u201310259.']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Tesauro, G. (1994). Td-gammon, a self-teaching backgammon program, achieves master-level play. Neural computation, 6(2):215\u2013219.']",
+                "list_authors": [
+                    "G."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Tucker, M., Zhou, Y., and Shah, J. (2020). Adversarially guided self-play for adopting social conventions. arXiv preprint arXiv:2001.05994. van der Heiden, T., Weiss, C., Shankar, N. N., Gavves, E., and van Hoof, H. (2020). Social navigation with human empowerment driven reinforcement learning. arXiv preprint arXiv:2003.08158.']",
+                "list_authors": [
+                    "Tucker",
+                    "Zhou",
+                    "Heiden",
+                    "N. N.",
+                    "van Hoof",
+                    "H."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Tucker, M., Zhou, Y., and Shah, J. (2020). Adversarially guided self-play for adopting social conventions. arXiv preprint arXiv:2001.05994. van der Heiden, T., Weiss, C., Shankar, N. N., Gavves, E., and van Hoof, H. (2020). Social navigation with human empowerment driven reinforcement learning. arXiv preprint arXiv:2003.08158.']",
+                "list_authors": [
+                    "Tucker",
+                    "Zhou",
+                    "Heiden",
+                    "N. N.",
+                    "van Hoof",
+                    "H."
+                ]
+            },
+            {
+                "id": "2203.03355v1",
+                "raw_ref": "['Wang, T., Wang, J., Wu, Y., and Zhang, C. (2019). Influencebased multi-agent exploration. arXiv preprint arXiv:1910.05512.']",
+                "list_authors": [
+                    "Wu",
+                    "Y."
+                ]
+            }
+        ],
+        [
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[1] https://github.com/vchoutas/smplx/tree/master/transfer model. 13']",
+                "list_authors": []
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[2] Mykhaylo Andriluka, Umar Iqbal, Eldar Insafutdinov, Leonid Pishchulin, Anton Milan, Juergen Gall, and Bernt Schiele. Posetrack: A benchmark for human pose estimation and tracking. In Computer Vision and Pattern Recognition (CVPR), pages 5167\u20135176, 2018. 2']",
+                "list_authors": [
+                    "Umar Iqbal",
+                    "Eldar Insafutdinov",
+                    "Leonid Pishchulin",
+                    "Juergen Gall"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[3] Dragomir Anguelov, Praveen Srinivasan, Daphne Koller, Sebastian Thrun, Jim Rodgers, and James Davis. SCAPE: Shape Completion and Animation of PEople. Transactions on Graphics (TOG), 24(3):408\u2013416, 2005. 2']",
+                "list_authors": [
+                    "Dragomir Anguelov",
+                    "Praveen Srinivasan",
+                    "Daphne Koller",
+                    "Sebastian Thrun",
+                    "Jim Rodgers",
+                    "James Davis"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[4] Aayush Bansal, Bryan Russell, and Abhinav Gupta. Marr revisited: 2D-3D alignment via surface normal prediction. In Computer Vision and Pattern Recognition (CVPR), pages 5965\u20135974, 2016. 3']",
+                "list_authors": [
+                    "Bryan Russell",
+                    "Abhinav Gupta"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[5] Federica Bogo, Angjoo Kanazawa, Christoph Lassner, Peter Gehler, Javier Romero, and Michael J. Black. Keep it SMPL: Automatic estimation of 3D human pose and shape from a single image. In European Conference on Computer Vision (ECCV), volume 9909, pages 561\u2013578, 2016. 3']",
+                "list_authors": [
+                    "Angjoo Kanazawa",
+                    "Christoph Lassner",
+                    "Peter Gehler",
+                    "Javier Romero",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[6] Aljaz\u030c Boz\u030cic\u030c, Pablo Palafox, Justus Thies, Angela Dai, and Matthias Nie\u00dfner. TransformerFusion: Monocular RGB scene reconstruction using transformers. Conference on Neural Information Processing Systems (NeurIPS), 2021. 1']",
+                "list_authors": [
+                    "Angela Dai",
+                    "Matthias Nie\u00dfner"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[7] Zhe Cao, Gines Hidalgo Martinez, Tomas Simon, Shih-En Wei, and Yaser Sheikh. OpenPose: Realtime multi-person 2D pose estimation using part affinity fields. Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 43(1):172\u2013 186, 2021. 2, 6']",
+                "list_authors": [
+                    "Hidalgo Martinez",
+                    "Tomas Simon",
+                    "Yaser Sheikh"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[8] Zhe Cao, Ilija Radosavovic, Angjoo Kanazawa, and Jitendra Malik. Reconstructing hand-object interactions in the wild. In International Conference on Computer Vision (ICCV), 2021. 3']",
+                "list_authors": [
+                    "Ilija Radosavovic",
+                    "Angjoo Kanazawa",
+                    "Jitendra Malik"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[9] Yu-Wei Chao, Wei Yang, Yu Xiang, Pavlo Molchanov, Ankur Handa, Jonathan Tremblay, Yashraj S Narang, Karl Van Wyk, Umar Iqbal, Stan Birchfield, et al. Dexycb: A benchmark for capturing hand grasping of objects. In Computer Vision and Pattern Recognition (CVPR), 2021. 3']",
+                "list_authors": [
+                    "] Yu-Wei Chao",
+                    "Wei Yang",
+                    "Yu Xiang",
+                    "Pavlo Molchanov",
+                    "Ankur Handa",
+                    "Jonathan Tremblay",
+                    "Karl Van Wyk",
+                    "Umar Iqbal",
+                    "Stan Birchfield"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[10] Yixin Chen, Siyuan Huang, Tao Yuan, Yixin Zhu, Siyuan Qi, and Song-Chun Zhu. Holistic++ scene understanding: Singleview 3D holistic scene parsing and human pose estimation with human-object interaction and physical commonsense. In International Conference on Computer Vision (ICCV), pages 8647\u20138656, 2019. 1, 2, 3, 5, 6, 8']",
+                "list_authors": [
+                    "Yixin Chen",
+                    "Siyuan Huang",
+                    "Tao Yuan",
+                    "Yixin Zhu",
+                    "Song-Chun Zhu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[11] Wongun Choi, Yu-Wei Chao, Caroline Pantofaru, and Silvio Savarese. Understanding indoor scenes using 3D geometric phrases. In Computer Vision and Pattern Recognition (CVPR), pages 33\u201340, 2013. 3']",
+                "list_authors": [
+                    "Yu-Wei Chao",
+                    "Silvio Savarese"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[12] Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas, and Michael J. Black. Monocular expressive body regression through body-driven attention. In European Conference on Computer Vision (ECCV), volume 12355, pages 20\u201340, 2020. 3']",
+                "list_authors": [
+                    "Timo Bolkart",
+                    "Dimitrios Tzionas",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[13] Christopher B Choy, Danfei Xu, JunYoung Gwak, Kevin Chen, and Silvio Savarese. 3D-R2N2: A unified approach for single and multi-view 3D object reconstruction. In European Conference on Computer Vision (ECCV), volume 9912, pages 628\u2013644, 2016. 3']",
+                "list_authors": [
+                    "Danfei Xu",
+                    "JunYoung Gwak",
+                    "Kevin Chen",
+                    "Silvio Savarese"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[14] M Comer, C Bouman, and J Simmons. Statistical methods for image segmentation and tomography reconstruction. Microscopy and Microanalysis, 16:1852 \u2013 1853, 2010. 6']",
+                "list_authors": [
+                    "C Bouman"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[15] Rishabh Dabral, Soshi Shimada, Arjun Jain, Christian Theobalt, and Vladislav Golyanik. Gravity-aware monocular 3d human-object reconstruction. In International Conference on Computer Vision (ICCV), 2021. 3']",
+                "list_authors": [
+                    "Arjun Jain",
+                    "Christian Theobalt",
+                    "Vladislav Golyanik"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[16] Manuel Dahnert, Ji Hou, , Matthias Nie\u00dfner, and Angela Dai. Panoptic 3D scene reconstruction from a single RGB image. Conference on Neural Information Processing Systems (NeurIPS), 2021. 1, 3']",
+                "list_authors": [
+                    "Manuel Dahnert",
+                    "Ji Hou",
+                    "Matthias Nie\u00dfner",
+                    "Angela Dai"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[17] Saumitro Dasgupta, Kuan Fang, Kevin Chen, and Silvio Savarese. DeLay: Robust spatial layout estimation for cluttered indoor scenes. In Computer Vision and Pattern Recognition (CVPR), pages 616\u2013624, 2016. 3']",
+                "list_authors": [
+                    "Kuan Fang",
+                    "Kevin Chen",
+                    "Silvio Savarese",
+                    "DeLay"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[18] Maximilian Denninger and Rudolph Triebel. 3d scene reconstruction from a single viewport. In European Conference on Computer Vision (ECCV), pages 51\u201367. Springer, 2020. 3']",
+                "list_authors": [
+                    "Maximilian Denninger",
+                    "Rudolph Triebel"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[19] Huan Fu, Mingming Gong, Chaohui Wang, Kayhan Batmanghelich, and Dacheng Tao. Deep ordinal regression network for monocular depth estimation. In Computer Vision and Pattern Recognition (CVPR), pages 2002\u20132011, 2018. 3']",
+                "list_authors": [
+                    "Chaohui Wang",
+                    "Kayhan Batmanghelich",
+                    "Dacheng Tao"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[20] Valentin Gabeur, Jean-Sebastien Franco, Xavier Martin, Cordelia Schmid, and Gregory Rogez. Moulding Humans: Non-parametric 3D human shape estimation from single images. In International Conference on Computer Vision (ICCV), pages 2232\u20132241, 2019. 2']",
+                "list_authors": [
+                    "Xavier Martin",
+                    "Cordelia Schmid",
+                    "Gregory Rogez"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[21] Georgia Gkioxari, Jitendra Malik, and Justin Johnson. Mesh R-CNN. In International Conference on Computer Vision (ICCV), pages 9785\u20139795, 2019. 3']",
+                "list_authors": [
+                    "Georgia Gkioxari",
+                    "Jitendra Malik",
+                    "Justin Johnson"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[22] Cle\u0301ment Godard, Oisin Mac Aodha, and Gabriel J Brostow. Unsupervised monocular depth estimation with left-right consistency. In Computer Vision and Pattern Recognition (CVPR), pages 270\u2013279, 2017. 3']",
+                "list_authors": [
+                    "Gabriel J Brostow"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[23] Thibault Groueix, Matthew Fisher, Vladimir G. Kim, Bryan C. Russell, and Mathieu Aubry. Atlasnet: A papierma\u0302che\u0301 approach to learning 3d surface generation. CoRR, abs/1802.05384, 2018. 3']",
+                "list_authors": [
+                    "Matthew Fisher",
+                    "Vladimir G. Kim",
+                    "Bryan C. Russell"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[24] Riza Alp Guler and Iasonas Kokkinos. HoloPose: Holistic 3D human reconstruction in-the-wild. In Computer Vision and Pattern Recognition (CVPR), pages 10884\u201310894, 2019. 1']",
+                "list_authors": [
+                    "Riza Alp Guler",
+                    "Iasonas Kokkinos"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[25] Nils Hasler, Carsten Stoll, Martin Sunkel, Bodo Rosenhahn, and Hans-Peter Seidel. A statistical model of human pose and body shape. Computer Graphics Forum, 28(2):337\u2013346, 2009. 2']",
+                "list_authors": [
+                    "Carsten Stoll",
+                    "Martin Sunkel",
+                    "Bodo Rosenhahn",
+                    "Hans-Peter Seidel"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[26] Mohamed Hassan, Vasileios Choutas, Dimitrios Tzionas, and Michael J. Black. Resolving 3D human pose ambiguities with 3D scene constraints. In International Conference on Computer Vision (ICCV), pages 2282\u20132292, 2019. 1, 2, 6, 7, 8, 15']",
+                "list_authors": [
+                    "Mohamed Hassan",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[27] Mohamed Hassan, Partha Ghosh, Joachim Tesch, Dimitrios Tzionas, and Michael J. Black. Populating 3D scenes by learning human-scene interaction. In Computer Vision and Pattern Recognition (CVPR), 2021. 2, 3, 4, 6']",
+                "list_authors": [
+                    "Mohamed Hassan",
+                    "Partha Ghosh",
+                    "Joachim Tesch",
+                    "Dimitrios Tzionas",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[28] Kaiming He, Georgia Gkioxari, Piotr Dolla\u0301r, and Ross Girshick. Mask R-CNN. In International Conference on Computer Vision (ICCV), pages 2961\u20132969, 2017. 3']",
+                "list_authors": [
+                    "Georgia Gkioxari",
+                    "Ross Girshick"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[29] Varsha Hedau, Derek Hoiem, and David Forsyth. Recovering the spatial layout of cluttered rooms. In International Conference on Computer Vision (ICCV), pages 1849\u20131856, 2009. 3']",
+                "list_authors": [
+                    "David Forsyth"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[30] Siyuan Huang, Siyuan Qi, Yinxue Xiao, Yixin Zhu, Ying Nian Wu, and Song-Chun Zhu. Cooperative holistic scene understanding: Unifying 3d object, layout, and camera pose estimation. In Conference on Neural Information Processing Systems (NeurIPS), pages 207\u2013218, 2018. 1, 3, 8']",
+                "list_authors": [
+                    "Siyuan Huang",
+                    "Yinxue Xiao",
+                    "Yixin Zhu",
+                    "Ying Nian Wu",
+                    "Song-Chun Zhu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[31] Siyuan Huang, Siyuan Qi, Yixin Zhu, Yinxue Xiao, Yuanlu Xu, and Song-Chun Zhu. Holistic 3D scene parsing and reconstruction from a single RGB image. In European Conference on Computer Vision (ECCV), volume 11211, pages 194\u2013211, 2018. 3, 6']",
+                "list_authors": [
+                    "Siyuan Huang",
+                    "Yixin Zhu",
+                    "Yinxue Xiao",
+                    "Yuanlu Xu",
+                    "Song-Chun Zhu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[32] Hamid Izadinia, Qi Shan, and Steven M Seitz. IM2CAD. In Computer Vision and Pattern Recognition (CVPR), pages 5134\u20135143, 2017. 3']",
+                "list_authors": [
+                    "Qi Shan",
+                    "Steven M Seitz"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[33] Hanwen Jiang, Shaowei Liu, Jiashun Wang, and Xiaolong Wang. Hand-object contact consistency reasoning for human grasps generation. In International Conference on Computer Vision (ICCV), 2021. 3']",
+                "list_authors": [
+                    "Hanwen Jiang",
+                    "Shaowei Liu",
+                    "Jiashun Wang",
+                    "Xiaolong Wang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[34] Wen Jiang, Nikos Kolotouros, Georgios Pavlakos, Xiaowei Zhou, and Kostas Daniilidis. Coherent reconstruction of multiple humans from a single image. In Computer Vision and Pattern Recognition (CVPR), pages 5579\u20135588, 2020. 4']",
+                "list_authors": [
+                    "Wen Jiang",
+                    "Nikos Kolotouros",
+                    "Xiaowei Zhou"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[35] Sheng Jin, Lumin Xu, Jin Xu, Can Wang, Wentao Liu, Chen Qian, Wanli Ouyang, and Ping Luo. Whole-body human pose estimation in the wild. In European Conference on Computer Vision (ECCV), volume 12354, pages 196\u2013214, 2020. 2']",
+                "list_authors": [
+                    "Lumin Xu",
+                    "Jin Xu",
+                    "Can Wang",
+                    "Wentao Liu",
+                    "Chen Qian",
+                    "Wanli Ouyang",
+                    "Ping Luo"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[36] Hanbyul Joo, Natalia Neverova, and Andrea Vedaldi. Exemplar fine-tuning for 3d human pose fitting towards in-the-wild 3d human pose estimation. In International Conference on 3D Vision (3DV), 2020. 1, 3']",
+                "list_authors": [
+                    "Natalia Neverova",
+                    "Andrea Vedaldi"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[37] Hanbyul Joo, Tomas Simon, and Yaser Sheikh. Total capture: A 3D deformation model for tracking faces, hands, and bodies. In Computer Vision and Pattern Recognition (CVPR), pages 8320\u20138329, 2018. 2, 3, 13']",
+                "list_authors": [
+                    "Tomas Simon",
+                    "Yaser Sheikh"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[38] Angjoo Kanazawa, Michael J. Black, David W. Jacobs, and Jitendra Malik. End-to-end recovery of human shape and pose. In Computer Vision and Pattern Recognition (CVPR), pages 7122\u20137131, 2018. 1, 3']",
+                "list_authors": [
+                    "Michael J. Black",
+                    "David W. Jacobs",
+                    "Jitendra Malik"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[39] Diederik P. Kingma and Jimmy Ba. Adam: A method for stochastic optimization. 2015. 5']",
+                "list_authors": [
+                    "Diederik P. Kingma",
+                    "Jimmy Ba"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[40] Alexander Kirillov, Yuxin Wu, Kaiming He, and Ross Girshick. PointRend: Image segmentation as rendering. In Computer Vision and Pattern Recognition (CVPR), pages 9799\u20139808, 2020. 2, 4, 5, 6, 7']",
+                "list_authors": [
+                    "Alexander Kirillov",
+                    "Yuxin Wu",
+                    "Kaiming",
+                    "Ross Girshick"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[41] Muhammed Kocabas, Nikos Athanasiou, and Michael J. Black. VIBE: Video inference for human body pose and shape estimation. In Computer Vision and Pattern Recognition (CVPR), pages 5253\u20135263, 2020. 1']",
+                "list_authors": [
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[42] Muhammed Kocabas, Nikos Athanasiou, and Michael J. Black. VIBE: Video inference for human body pose and shape estimation. In Computer Vision and Pattern Recognition (CVPR), pages 5252\u20135262, 2020. 3']",
+                "list_authors": [
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[43] Muhammed Kocabas, Chun-Hao P. Huang, Otmar Hilliges, and Michael J. Black. PARE: Part attention regressor for 3D human body estimation. In Computer Vision and Pattern Recognition (CVPR), pages 11127\u201311137, 2021. 1, 2, 3, 4, 6, 13']",
+                "list_authors": [
+                    "Muhammed Kocabas",
+                    "Chun-Hao P. Huang",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[44] Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, and Kostas Daniilidis. Learning to reconstruct 3D human pose and shape via model-fitting in the loop. In International Conference on Computer Vision (ICCV), 2019. 1']",
+                "list_authors": [
+                    "Nikos Kolotouros",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[45] Nikos Kolotouros, Georgios Pavlakos, Michael J. Black, and Kostas Daniilidis. Learning to reconstruct 3D human pose and shape via model-fitting in the loop. In International Conference on Computer Vision (ICCV), pages 2252\u20132261, 2019. 3']",
+                "list_authors": [
+                    "Nikos Kolotouros",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[46] Nikos Kolotouros, Georgios Pavlakos, and Kostas Daniilidis. Convolutional mesh regression for single-image human shape reconstruction. In Computer Vision and Pattern Recognition (CVPR), pages 4496\u20134505, 2019. 2']",
+                "list_authors": [
+                    "Nikos Kolotouros"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[47] Weicheng Kuo, Anelia Angelova, Tsung-Yi Lin, and Angela Dai. Mask2CAD: 3D shape prediction by learning to segment and retrieve. In European Conference on Computer Vision (ECCV), volume 12348, pages 260\u2013277, 2020. 3']",
+                "list_authors": [
+                    "Weicheng Kuo",
+                    "Anelia Angelova",
+                    "Angela Dai"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[48] Taein Kwon, Bugra Tekin, Jan Stuhmer, Federica Bogo, and Marc Pollefeys. H2o: Two hands manipulating objects for first person interaction recognition. In International Conference on Computer Vision (ICCV), 2021. 3']",
+                "list_authors": [
+                    "Taein Kwon",
+                    "Bugra Tekin",
+                    "Jan Stuhmer",
+                    "Federica Bogo",
+                    "Marc Pollefeys"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[49] Iro Laina, Christian Rupprecht, Vasileios Belagiannis, Federico Tombari, and Nassir Navab. Deeper depth prediction with fully convolutional residual networks. In International Conference on 3D Vision (3DV), pages 239\u2013248. IEEE, 2016. 3']",
+                "list_authors": [
+                    "Iro Laina",
+                    "Christian Rupprecht",
+                    "Federico Tombari",
+                    "Nassir Navab"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[50] David C Lee, Martial Hebert, and Takeo Kanade. Geometric reasoning for single image structure recovery. In Computer Vision and Pattern Recognition (CVPR), pages 2136\u20132143, 2009. 3']",
+                "list_authors": [
+                    "Martial Hebert",
+                    "Takeo Kanade"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[51] Xueting Li, Sifei Liu, Kihwan Kim, Xiaolong Wang, MingHsuan Yang, and Jan Kautz. Putting humans in a scene: Learning affordance in 3D indoor environments. In Computer Vision and Pattern Recognition (CVPR), pages 12368\u201312376, 2019. 3']",
+                "list_authors": [
+                    "Xueting Li",
+                    "Sifei Liu",
+                    "Kihwan Kim",
+                    "Xiaolong Wang",
+                    "MingHsuan Yang",
+                    "Jan Kautz"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[52] Shaowei Liu, Hanwen Jiang, Jiarui Xu, Sifei Liu, and Xiaolong Wang. Semi-supervised 3d hand-object poses estimation with interactions in time. In Computer Vision and Pattern Recognition (CVPR), 2021. 3']",
+                "list_authors": [
+                    "Shaowei Liu",
+                    "Hanwen Jiang",
+                    "Jiarui Xu",
+                    "Sifei Liu",
+                    "Xiaolong Wang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[53] Shaohui Liu, Yinda Zhang, Songyou Peng, Boxin Shi, Marc Pollefeys, and Zhaopeng Cui. Dist: Rendering deep implicit signed distance function with differentiable sphere tracing. In Computer Vision and Pattern Recognition (CVPR), pages 2019\u20132028, 2020. 3']",
+                "list_authors": [
+                    "Shaohui Liu",
+                    "Yinda Zhang",
+                    "Songyou Peng",
+                    "Boxin Shi",
+                    "Marc Pollefeys",
+                    "Zhaopeng Cui"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[54] Matthew Loper, Naureen Mahmood, Javier Romero, Gerard Pons-Moll, and Michael J. Black. SMPL: A skinned multi-person linear model. Transactions on Graphics (TOG), 34(6):248:1\u2013248:16, 2015. 2']",
+                "list_authors": [
+                    "Matthew Loper",
+                    "Javier Romero",
+                    "Gerard Pons-Moll",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[55] William E. Lorensen and Harvey E. Cline. Marching cubes: A high resolution 3D surface construction algorithm. International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH), 1987. 5']",
+                "list_authors": [
+                    "William E. Lorensen",
+                    "Harvey E. Cline"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[56] Arun Mallya and Svetlana Lazebnik. Learning informative edge maps for indoor scene layout prediction. In International Conference on Computer Vision (ICCV), pages 936\u2013 944, 2015. 3']",
+                "list_authors": [
+                    "Svetlana Lazebnik"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[57] Julieta Martinez, Rayat Hossain, Javier Romero, and James J. Little. A simple yet effective baseline for 3D human pose estimation. In International Conference on Computer Vision (ICCV), pages 2659\u20132668, 2017. 2']",
+                "list_authors": [
+                    "Julieta Martinez",
+                    "Rayat Hossain",
+                    "Javier Romero",
+                    "James J. Little"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[58] Lars Mescheder, Michael Oechsle, Michael Niemeyer, Sebastian Nowozin, and Andreas Geiger. Occupancy networks: Learning 3D reconstruction in function space. In Computer Vision and Pattern Recognition (CVPR), pages 4460\u20134470, 2019. 3, 5']",
+                "list_authors": [
+                    "Michael Oechsle",
+                    "Michael Niemeyer",
+                    "Sebastian Nowozin",
+                    "Andreas Geiger"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[59] Thomas B. Moeslund, Adrian Hilton, and Volker Kru\u0308ger. A survey of advances in vision-based human motion capture and analysis. Computer Vision and Image Understanding (CVIU), 104(2):90\u2013126, 2006. 2']",
+                "list_authors": [
+                    "Thomas B. Moeslund",
+                    "Adrian Hilton"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[60] Aron Monszpart, Paul Guerrero, Duygu Ceylan, Ersin Yumer, and Niloy J Mitra. iMapper: interaction-guided scene mapping from monocular videos. Transactions on Graphics (TOG), 38(4):92:1\u201392:15, 2019. 3']",
+                "list_authors": [
+                    "Aron Monszpart",
+                    "Paul Guerrero",
+                    "Ersin Yumer"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[61] Yinyu Nie, Xiaoguang Han, Shihui Guo, Yujian Zheng, Jian Chang, and Jian Jun Zhang. Total3DUnderstanding: Joint layout, object pose and mesh reconstruction for indoor scenes from a single image. In Computer Vision and Pattern Recognition (CVPR), pages 55\u201364, 2020. 1, 2, 3, 4, 5, 6, 7, 8, 13, 15']",
+                "list_authors": [
+                    "Xiaoguang Han",
+                    "Shihui Guo",
+                    "Yujian Zheng",
+                    "Jian Chang",
+                    "Jian Jun Zhang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[62] Jeong Joon Park, Peter Florence, Julian Straub, Richard Newcombe, and Steven Lovegrove. DeepSDF: Learning continuous signed distance functions for shape representation. In Computer Vision and Pattern Recognition (CVPR), pages 165\u2013174, 2019. 3']",
+                "list_authors": [
+                    "Julian Straub",
+                    "Richard Newcombe",
+                    "Steven Lovegrove"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[63] Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed AA Osman, Dimitrios Tzionas, and Michael J. Black. Expressive body capture: 3d hands, face, and body from a single image. In Computer Vision and Pattern Recognition (CVPR), pages 10975\u201310985, 2019. 1, 2, 3, 4, 6, 13']",
+                "list_authors": [
+                    "Nima Ghorbani",
+                    "Timo Bolkart",
+                    "Ahmed AA Osman",
+                    "Dimitrios Tzionas",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[64] Georgios Pavlakos, Vasileios Choutas, Nima Ghorbani, Timo Bolkart, Ahmed A. A. Osman, Dimitrios Tzionas, and Michael J. Black. Expressive body capture: 3D hands, face, and body from a single image. In Computer Vision and Pattern Recognition (CVPR), pages 10975\u201310985, 2019. 1, 2, 3']",
+                "list_authors": [
+                    "Nima Ghorbani",
+                    "Timo Bolkart",
+                    "Ahmed A. A. Osman",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[65] Georgios Pavlakos, Nikos Kolotouros, and Kostas Daniilidis. TexturePose: Supervising human mesh estimation with texture consistency. In International Conference on Computer Vision (ICCV), pages 803\u2013812, 2019. 1']",
+                "list_authors": [
+                    "Nikos Kolotouros"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[66] Davis Rempe, Tolga Birdal, Aaron Hertzmann, Jimei Yang, Srinath Sridhar, and Leonidas J. Guibas. Humor: 3d human motion model for robust pose estimation. In International Conference on Computer Vision (ICCV), 2021. 6']",
+                "list_authors": [
+                    "Davis Rempe",
+                    "Tolga Birdal",
+                    "Aaron Hertzmann",
+                    "Jimei Yang",
+                    "Srinath Sridhar",
+                    "Leonidas J. Guibas"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[67] Gre\u0301gory Rogez and Cordelia Schmid. MoCap-guided data augmentation for 3D pose estimation in the wild. In Conference on Neural Information Processing Systems (NeurIPS), pages 3108\u20133116, 2016. 2']",
+                "list_authors": [
+                    "Gre\u0301gory Rogez",
+                    "Cordelia Schmid"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[68] Javier Romero, Dimitrios Tzionas, and Michael J. Black. Embodied hands: Modeling and capturing hands and bodies together. Transactions on Graphics (TOG), 36(6):245:1\u2013245:17, 2017. 2']",
+                "list_authors": [
+                    "Javier Romero",
+                    "Dimitrios Tzionas",
+                    "Michael J. Black"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[69] Shunsuke Saito, , Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, and Hao Li. Pifu: Pixel-aligned implicit function for high-resolution clothed human digitization. In International Conference on Computer Vision (ICCV), 2019. 3']",
+                "list_authors": [
+                    "Saito",
+                    "Zeng Huang",
+                    "Ryota Natsume",
+                    "Shigeo Morishima",
+                    "Angjoo Kanazawa",
+                    "Hao Li"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[70] Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, and Hao Li. PIFu: Pixel-aligned implicit function for high-resolution clothed human digitization. In International Conference on Computer Vision (ICCV), pages 2304\u20132314, 2019. 2']",
+                "list_authors": [
+                    "Saito",
+                    "Zeng Huang",
+                    "Ryota Natsume",
+                    "Shigeo Morishima",
+                    "Angjoo Kanazawa",
+                    "Hao Li"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[71] Shunsuke Saito, Tomas Simon, Jason Saragih, and Hanbyul Joo. PIFuHD: Multi-level pixel-aligned implicit function for high-resolution 3D human digitization. In Computer Vision and Pattern Recognition (CVPR), pages 84\u201393, 2020. 2']",
+                "list_authors": [
+                    "Saito",
+                    "Tomas Simon",
+                    "Jason Saragih",
+                    "Hanbyul Joo"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[72] Shunsuke Saito, Tomas Simon, Jason Saragih, and Hanbyul Joo. Pifuhd: Multi-level pixel-aligned implicit function for high-resolution 3d human digitization. In Computer Vision and Pattern Recognition (CVPR), June 2020. 3']",
+                "list_authors": [
+                    "Saito",
+                    "Tomas Simon",
+                    "Jason Saragih",
+                    "Hanbyul Joo"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[73] Nikolaos Sarafianos, Bogdan Boteanu, Bogdan Ionescu, and Ioannis A. Kakadiaris. 3D human pose estimation: A review of the literature and analysis of covariates. Computer Vision and Image Understanding (CVIU), 152:1\u201320, 2016. 2']",
+                "list_authors": [
+                    "Bogdan Boteanu",
+                    "Bogdan Ionescu",
+                    "Ioannis A. Kakadiaris"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[74] Manolis Savva, Angel X Chang, Pat Hanrahan, Matthew Fisher, and Matthias Nie\u00dfner. PiGraphs: Learning interaction snapshots from observations. Transactions on Graphics (TOG), 35(4):139:1\u2013139:12, 2016. 2, 6, 8, 13, 15']",
+                "list_authors": [
+                    "Manolis Savva",
+                    "Angel X Chang",
+                    "Pat Hanrahan",
+                    "Matthew Fisher",
+                    "Matthias Nie\u00dfner"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[75] Daeyun Shin, Zhile Ren, Erik B Sudderth, and Charless C Fowlkes. 3d scene reconstruction with multi-layer depth and epipolar transformers. In International Conference on Computer Vision (ICCV), pages 2172\u20132182, 2019. 3']",
+                "list_authors": [
+                    "Daeyun Shin",
+                    "Zhile Ren",
+                    "Erik B Sudderth"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[76] Vincent Sitzmann, Michael Zollho\u0308fer, and Gordon Wetzstein. Scene representation networks: Continuous 3d-structureaware neural scene representations. In Conference on Neural Information Processing Systems (NeurIPS), 2019. 3']",
+                "list_authors": [
+                    "Vincent Sitzmann",
+                    "Michael Zollho\u0308fer",
+                    "Gordon Wetzstein",
+                    "Continuous 3d-structureaware"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[77] David Smith, Matthew Loper, Xiaochen Hu, Paris Mavroidis, and Javier Romero. FACSIMILE: Fast and accurate scans from an image in less than a second. In International Conference on Computer Vision (ICCV), pages 5329\u20135338, 2019. 2']",
+                "list_authors": [
+                    "David Smith",
+                    "Matthew Loper",
+                    "Xiaochen Hu",
+                    "Paris Mavroidis",
+                    "Javier Romero",
+                    "FACSIMILE"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[78] Bugra Tekin, Isinsu Katircioglu, Mathieu Salzmann, Vincent Lepetit, and Pascal Fua. Structured prediction of 3D human pose with deep neural networks. In British Machine Vision Conference (BMVC), 2016. 2']",
+                "list_authors": [
+                    "Bugra Tekin",
+                    "Isinsu Katircioglu",
+                    "Vincent Lepetit",
+                    "Pascal Fua"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[79] Denis Tome, Chris Russell, and Lourdes Agapito. Lifting from the deep: Convolutional 3D pose estimation from a single image. In Computer Vision and Pattern Recognition (CVPR), pages 5689\u20135698, 2017. 2']",
+                "list_authors": [
+                    "Chris Russell",
+                    "Lourdes Agapito"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[80] Gul Varol, Duygu Ceylan, Bryan Russell, Jimei Yang, Ersin Yumer, Ivan Laptev, and Cordelia Schmid. BodyNet: Volumetric inference of 3D human body shapes. In European Conference on Computer Vision (ECCV), pages 20\u201338, 2018. 2']",
+                "list_authors": [
+                    "Bryan Russell",
+                    "Jimei Yang",
+                    "Ersin Yumer",
+                    "Ivan Laptev",
+                    "Cordelia Schmid",
+                    "Volumetric"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[81] Nanyang Wang, Yinda Zhang, Zhuwen Li, Yanwei Fu, Wei Liu, and Yu-Gang Jiang. Pixel2mesh: Generating 3d mesh models from single rgb images. In ECCV, pages 52\u201367, 2018. 3']",
+                "list_authors": [
+                    "Nanyang Wang",
+                    "Yinda Zhang",
+                    "Zhuwen Li",
+                    "Yanwei Fu",
+                    "Wei Liu",
+                    "Yu-Gang Jiang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[82] Philippe Weinzaepfel, Romain Bre\u0301gier, Hadrien Combaluzier, Vincent Leroy, and Gre\u0301gory Rogez. DOPE: distillation of part experts for whole-body 3d pose estimation in the wild. In European Conference on Computer Vision (ECCV), volume 12371, pages 380\u2013397, 2020. 2']",
+                "list_authors": [
+                    "Philippe Weinzaepfel",
+                    "Hadrien Combaluzier",
+                    "Vincent Leroy",
+                    "Gre\u0301gory Rogez"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[83] Zhenzhen Weng and Serena Yeung. Holistic 3D human and scene mesh estimation from single view images. In Computer Vision and Pattern Recognition (CVPR), 2021. 1, 2, 3, 5, 6, 7, 8, 13, 15']",
+                "list_authors": [
+                    "Zhenzhen Weng",
+                    "Serena Yeung"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[84] Donglai Xiang, Hanbyul Joo, and Yaser Sheikh. Monocular total capture: Posing face, body, and hands in the wild. In Computer Vision and Pattern Recognition (CVPR), pages 10957\u201310966, 2019. 3']",
+                "list_authors": [
+                    "Donglai Xiang",
+                    "Hanbyul Joo",
+                    "Yaser Sheikh"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[85] Hongyi Xu, Eduard Gabriel Bazavan, Andrei Zanfir, William T. Freeman, Rahul Sukthankar, and Cristian Sminchisescu. GHUM & GHUML: Generative 3D human shape and articulated pose models. In Computer Vision and Pattern Recognition (CVPR), pages 6183\u20136192, 2020. 2']",
+                "list_authors": [
+                    "Hongyi Xu",
+                    "Eduard Gabriel Bazavan",
+                    "Andrei Zanfir",
+                    "William T. Freeman",
+                    "Rahul Sukthankar"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[86] Lixin Yang, Xinyu Zhan, Kailin Li, Wenqiang Xu, Jiefeng Li, and Cewu Lu. Cpf: Learning a contact potential field to model the hand-object interaction. In Computer Vision and Pattern Recognition (CVPR), 2021. 3']",
+                "list_authors": [
+                    "Lixin Yang",
+                    "Xinyu Zhan",
+                    "Kailin Li",
+                    "Wenqiang Xu",
+                    "Jiefeng Li",
+                    "Cewu Lu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[87] Andrei Zanfir, Elisabeta Marinoiu, and Cristian Sminchisescu. Monocular 3D pose and shape estimation of multiple people in natural scenes - the importance of multiple scene constraints. In Computer Vision and Pattern Recognition (CVPR), pages 2148\u20132157, 2018. 3']",
+                "list_authors": [
+                    "Andrei Zanfir",
+                    "Elisabeta Marinoiu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[88] Cheng Zhang, Zhaopeng Cui, Yinda Zhang, Bing Zeng, Marc Pollefeys, and Shuaicheng Liu. Holistic 3D scene understanding from a single image with implicit representation. In Computer Vision and Pattern Recognition (CVPR), pages 8833\u20138842, 2021. 1, 3']",
+                "list_authors": [
+                    "Cheng Zhang",
+                    "Zhaopeng Cui",
+                    "Yinda Zhang",
+                    "Bing Zeng",
+                    "Marc Pollefeys",
+                    "Shuaicheng Liu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[89] Jason Y Zhang, Sam Pepose, Hanbyul Joo, Deva Ramanan, Jitendra Malik, and Angjoo Kanazawa. Perceiving 3D humanobject spatial arrangements from a single image in the wild. In European Conference on Computer Vision (ECCV), volume 12357, pages 34\u201351, 2020. 2, 3, 4, 5']",
+                "list_authors": [
+                    "Sam Pepose",
+                    "Hanbyul Joo",
+                    "Deva Ramanan",
+                    "Jitendra Malik",
+                    "Angjoo Kanazawa"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[90] Siwei Zhang, Yan Zhang, Qianli Ma, Michael J. Black, and Siyu Tang. PLACE: Proximity learning of articulation and contact in 3D environments. In International Conference on 3D Vision (3DV), 2020. 3, 6']",
+                "list_authors": [
+                    "Siwei Zhang",
+                    "Yan Zhang",
+                    "Qianli Ma",
+                    "Michael J. Black",
+                    "Siyu Tang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[91] Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J Black, and Siyu Tang. Generating 3D people in scenes without people. In Computer Vision and Pattern Recognition (CVPR), pages 6194\u20136204, 2020. 3, 6']",
+                "list_authors": [
+                    "Yan Zhang",
+                    "Mohamed Hassan",
+                    "Heiko Neumann",
+                    "Michael J Black",
+                    "Siyu Tang"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[92] Yinda Zhang, Shuran Song, Ersin Yumer, Manolis Savva, Joon-Young Lee, Hailin Jin, and Thomas Funkhouser. Physically-based rendering for indoor scene understanding using convolutional neural networks. In Computer Vision and Pattern Recognition (CVPR), pages 5287\u20135295, 2017. 3']",
+                "list_authors": [
+                    "Yinda Zhang",
+                    "Shuran Song",
+                    "Ersin Yumer",
+                    "Manolis Savva",
+                    "Lee",
+                    "Hailin Jin",
+                    "Thomas Funkhouser"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[93] Yibiao Zhao and Song-Chun Zhu. Scene parsing by integrating function, geometry and appearance models. In Computer Vision and Pattern Recognition (CVPR), pages 3119\u20133126, 2013. 3']",
+                "list_authors": [
+                    "Yibiao Zhao",
+                    "Song-Chun Zhu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[94] Zerong Zheng, Tao Yu, Yixuan Wei, Qionghai Dai, and Yebin Liu. DeepHuman: 3D human reconstruction from a single image. In International Conference on Computer Vision (ICCV), pages 7738\u20137748, 2019. 2']",
+                "list_authors": [
+                    "Zerong Zheng",
+                    "Tao Yu",
+                    "Yixuan Wei",
+                    "Qionghai Dai",
+                    "Yebin Liu"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[95] Michael Zollho\u0308fer, Patrick Stotko, Andreas Go\u0308rlitz, Christian Theobalt, Matthias Nie\u00dfner, Reinhard Klein, and Andreas Kolb. State of the art on 3D reconstruction with RGB-D cameras. Computer Graphics Forum (CGF), 37(2):625\u2013652, 2018. 2']",
+                "list_authors": [
+                    "Michael Zollho\u0308fer",
+                    "Patrick Stotko",
+                    "Christian Theobalt",
+                    "Matthias Nie\u00dfner",
+                    "Reinhard Klein",
+                    "Andreas Kolb"
+                ]
+            },
+            {
+                "id": "2203.03609v1",
+                "raw_ref": "['[96] Cheng Zou, Bohan Wang, Yue Hu, Junqi Liu, Qian Wu, Yu Zhao, Boxun Li, Chenguang Zhang, Chi Zhang, Yichen Wei, et al. End-to-end human object interaction detection with hoi transformer. In Computer Vision and Pattern Recognition (CVPR), pages 11825\u201311834, 2021. 15']",
+                "list_authors": [
+                    "Cheng Zou",
+                    "Bohan Wang",
+                    "Yue Hu",
+                    "Junqi Liu",
+                    "Qian Wu",
+                    "Yu Zhao",
+                    "Boxun Li",
+                    "Chenguang Zhang",
+                    "Chi Zhang",
+                    "Yichen Wei"
+                ]
+            }
+        ]
+    ]
+}
