@@ -1,0 +1,4364 @@
+{
+    "Papers": [
+        {
+            "id": "2203.03609v1",
+            "authors": [
+                "Hongwei Yi",
+                "Chun-Hao P. Huang",
+                "Dimitrios Tzionas",
+                "Muhammed Kocabas",
+                "Mohamed Hassan",
+                "Siyu Tang",
+                "Justus Thies",
+                "Michael J. Black"
+            ],
+            "date": "2022-03-07",
+            "title": "Human-Aware Object Placement for Visual Environment Reconstruction",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.GR"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03609v1",
+            "references": []
+        },
+        {
+            "id": "2203.03580v1",
+            "authors": [
+                "Simone Parisi",
+                "Aravind Rajeswaran",
+                "Senthil Purushwalkam",
+                "Abhinav Gupta"
+            ],
+            "date": "2022-03-07",
+            "title": "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG",
+                "cs.RO"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03580v1",
+            "references": []
+        },
+        {
+            "id": "2203.03564v1",
+            "authors": [
+                "Shubham Gupta",
+                "Sahil Manchanda",
+                "Srikanta Bedathur",
+                "Sayan Ranu"
+            ],
+            "date": "2022-03-07",
+            "title": "TIGGER: Scalable Generative Modelling for Temporal Interaction Graphs",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.IR",
+                "cs.SI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03564v1",
+            "references": []
+        },
+        {
+            "id": "2203.03535v1",
+            "authors": [
+                "Dong-Ki Kim",
+                "Matthew Riemer",
+                "Miao Liu",
+                "Jakob N. Foerster",
+                "Michael Everett",
+                "Chuangchuang Sun",
+                "Gerald Tesauro",
+                "Jonathan P. How"
+            ],
+            "date": "2022-03-07",
+            "title": "Influencing Long-Term Behavior in Multiagent Reinforcement Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03535v1",
+            "references": []
+        },
+        {
+            "id": "2203.03512v1",
+            "authors": [
+                "Anna V. Kononova",
+                "Diederick Vermetten",
+                "Fabio Caraffini",
+                "Madalina-A. Mitran",
+                "Daniela Zaharie"
+            ],
+            "date": "2022-03-07",
+            "title": "The importance of being constrained: dealing with infeasible solutions in Differential Evolution and beyond",
+            "categories": [
+                "cs.NE",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03512v1",
+            "references": []
+        },
+        {
+            "id": "2203.03485v1",
+            "authors": [
+                "Dustin Dannenhauer",
+                "Matthew Molineaux",
+                "Michael W. Floyd",
+                "Noah Reifsnyder",
+                "David W. Aha"
+            ],
+            "date": "2022-03-07",
+            "title": "Self-directed Learning of Action Models using Exploratory Planning",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03485v1",
+            "references": []
+        },
+        {
+            "id": "2203.03445v1",
+            "authors": [
+                "Hojjat Salehinejad",
+                "Yang Wang",
+                "Yuanhao Yu",
+                "Tang Jin",
+                "Shahrokh Valaee"
+            ],
+            "date": "2022-03-07",
+            "title": "S-Rocket: Selective Random Convolution Kernels for Time Series Classification",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03445v1",
+            "references": []
+        },
+        {
+            "id": "2203.03442v1",
+            "authors": [
+                "Anqi Li",
+                "Jingsong Ma",
+                "Lizhi Ma",
+                "Pengfei Fang",
+                "Hongliang He",
+                "Zhenzhong Lan"
+            ],
+            "date": "2022-03-07",
+            "title": "Towards Automated Real-time Evaluation in Text-based Counseling",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03442v1",
+            "references": []
+        },
+        {
+            "id": "2203.03436v1",
+            "authors": [
+                "Jianyuan Sun",
+                "Xubo Liu",
+                "Xinhao Mei",
+                "Jinzheng Zhao",
+                "Mark D. Plumbley",
+                "Volkan K\u0131l\u0131\u00e7",
+                "Wenwu Wang"
+            ],
+            "date": "2022-03-07",
+            "title": "Deep Neural Decision Forest for Acoustic Scene Classification",
+            "categories": [
+                "eess.AS",
+                "cs.AI",
+                "cs.LG",
+                "cs.SD"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03436v1",
+            "references": []
+        },
+        {
+            "id": "2203.03379v1",
+            "authors": [
+                "Zhanhao Hu",
+                "Tao Wang",
+                "Xiaolin Hu"
+            ],
+            "date": "2022-03-07",
+            "title": "An STDP-Based Supervised Learning Algorithm for Spiking Neural Networks",
+            "categories": [
+                "cs.NE",
+                "cs.AI"
+            ],
+            "journal": "In International Conference on Neural Information Processing 2017\n  Nov 14 (pp. 92-100). Springer, Cham",
+            "doi": "10.1007/978-3-319-70096-0_10",
+            "url": "http://arxiv.org/pdf/2203.03379v1",
+            "references": []
+        },
+        {
+            "id": "2203.03355v1",
+            "authors": [
+                "Tessa van der Heiden",
+                "Herke van Hoof",
+                "Efstratios Gavves",
+                "Christoph Salge"
+            ],
+            "date": "2022-03-07",
+            "title": "Reliably Re-Acting to Partner's Actions with the Social Intrinsic Motivation of Transfer Empowerment",
+            "categories": [
+                "cs.AI",
+                "cs.LG",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03355v1",
+            "references": []
+        },
+        {
+            "id": "2203.03344v1",
+            "authors": [
+                "Yat Long Lo",
+                "Biswa Sengupta"
+            ],
+            "date": "2022-03-07",
+            "title": "Learning to Ground Decentralized Multi-Agent Communication with Contrastive Learning",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03344v1",
+            "references": []
+        },
+        {
+            "id": "2203.03315v1",
+            "authors": [
+                "Lingbing Guo",
+                "Yuqiang Han",
+                "Qiang Zhang",
+                "Huajun Chen"
+            ],
+            "date": "2022-03-07",
+            "title": "Deep Reinforcement Learning for Entity Alignment",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03315v1",
+            "references": []
+        },
+        {
+            "id": "2203.03312v1",
+            "authors": [
+                "Duyu Tang",
+                "Fan Zhang",
+                "Yong Dai",
+                "Cong Zhou",
+                "Shuangzhi Wu",
+                "Shuming Shi"
+            ],
+            "date": "2022-03-07",
+            "title": "One Model, Multiple Tasks: Pathways for Natural Language Understanding",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03312v1",
+            "references": []
+        },
+        {
+            "id": "2203.03292v1",
+            "authors": [
+                "Joery A. de Vries",
+                "Thomas M. Moerland",
+                "Aske Plaat"
+            ],
+            "date": "2022-03-07",
+            "title": "On Credit Assignment in Hierarchical Reinforcement Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03292v1",
+            "references": []
+        },
+        {
+            "id": "2203.03279v1",
+            "authors": [
+                "Pieter Cawood",
+                "Terence van Zyl"
+            ],
+            "date": "2022-03-07",
+            "title": "Evaluating State of the Art, Forecasting Ensembles- and Meta-learning Strategies for Model Fusion",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03279v1",
+            "references": []
+        },
+        {
+            "id": "2203.03265v1",
+            "authors": [
+                "Bin Zhang",
+                "Yunpeng Bai",
+                "Zhiwei Xu",
+                "Dapeng Li",
+                "Guoliang Fan"
+            ],
+            "date": "2022-03-07",
+            "title": "Efficient Cooperation Strategy Generation in Multi-Agent Video Games via Hypergraph Neural Network",
+            "categories": [
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03265v1",
+            "references": []
+        },
+        {
+            "id": "2203.03235v1",
+            "authors": [
+                "Zicheng Li",
+                "Shoushan Li",
+                "Guodong Zhou"
+            ],
+            "date": "2022-03-07",
+            "title": "Pre-trained Token-replaced Detection Model as Few-shot Learner",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03235v1",
+            "references": []
+        },
+        {
+            "id": "2203.03227v1",
+            "authors": [
+                "Qi Liao",
+                "Tianlun Hu",
+                "Dan Wellington"
+            ],
+            "date": "2022-03-07",
+            "title": "Knowledge Transfer in Deep Reinforcement Learning for Slice-Aware Mobility Robustness Optimization",
+            "categories": [
+                "cs.NI",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03227v1",
+            "references": []
+        },
+        {
+            "id": "2203.03208v1",
+            "authors": [
+                "Massimiliano Luca",
+                "Luca Pappalardo",
+                "Bruno Lepri",
+                "Gianni Barlacchi"
+            ],
+            "date": "2022-03-07",
+            "title": "Trajectory Test-Train Overlap in Next-Location Prediction Datasets",
+            "categories": [
+                "cs.AI",
+                "cs.SI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03208v1",
+            "references": []
+        },
+        {
+            "id": "2203.03204v1",
+            "authors": [
+                "A. Badillo-Perez",
+                "D. Badillo-Perez",
+                "D. Coyotzi-Molina",
+                "D. Cruz",
+                "R. Montenegro",
+                "L. Vazquez",
+                "Miguel Xochicale"
+            ],
+            "date": "2022-03-07",
+            "title": "Piloting Diversity and Inclusion Workshops in Artificial Intelligence and Robotics for Children",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03204v1",
+            "references": []
+        },
+        {
+            "id": "2203.03187v1",
+            "authors": [
+                "Haofei Zhang",
+                "Feng Mao",
+                "Mengqi Xue",
+                "Gongfan Fang",
+                "Zunlei Feng",
+                "Jie Song",
+                "Mingli Song"
+            ],
+            "date": "2022-03-07",
+            "title": "Knowledge Amalgamation for Object Detection with Transformers",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03187v1",
+            "references": []
+        },
+        {
+            "id": "2203.03183v1",
+            "authors": [
+                "Zehao Wang",
+                "Mingxiao Li",
+                "Minye Wu",
+                "Marie-Francine Moens",
+                "Tinne Tuytelaars"
+            ],
+            "date": "2022-03-07",
+            "title": "Find a Way Forward: a Language-Guided Semantic Map Navigator",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03183v1",
+            "references": []
+        },
+        {
+            "id": "2203.03153v1",
+            "authors": [
+                "Haoze Wu",
+                "Clark Barrett",
+                "Mahmood Sharif",
+                "Nina Narodytska",
+                "Gagandeep Singh"
+            ],
+            "date": "2022-03-07",
+            "title": "Scalable Verification of GNN-based Job Schedulers",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03153v1",
+            "references": []
+        },
+        {
+            "id": "2203.03151v1",
+            "authors": [
+                "Chenyang Qiu",
+                "Zhaoci Huang",
+                "Wenzhe Xu",
+                "Huijia Li"
+            ],
+            "date": "2022-03-07",
+            "title": "Fast Community Detection based on Graph Autoencoder Reconstruction",
+            "categories": [
+                "cs.SI",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03151v1",
+            "references": []
+        },
+        {
+            "id": "2203.03147v1",
+            "authors": [
+                "Dongjun Kim",
+                "Tae-Sub Yun",
+                "Il-Chul Moon",
+                "Jang Won Bae"
+            ],
+            "date": "2022-03-07",
+            "title": "Automatic Calibration Framework of Agent-Based Models for Dynamic and Heterogeneous Parameters",
+            "categories": [
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03147v1",
+            "references": []
+        },
+        {
+            "id": "2203.03131v1",
+            "authors": [
+                "Shengnan An",
+                "Yifei Li",
+                "Zeqi Lin",
+                "Qian Liu",
+                "Bei Chen",
+                "Qiang Fu",
+                "Weizhu Chen",
+                "Nanning Zheng",
+                "Jian-Guang Lou"
+            ],
+            "date": "2022-03-07",
+            "title": "Input-Tuning: Adapting Unfamiliar Inputs to Frozen Pretrained Models",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03131v1",
+            "references": []
+        },
+        {
+            "id": "2203.03128v1",
+            "authors": [
+                "Jialiang Sun",
+                "Tingsong Jiang",
+                "Chao Li",
+                "Weien Zhou",
+                "Xiaoya Zhang",
+                "Wen Yao",
+                "Xiaoqian Chen"
+            ],
+            "date": "2022-03-07",
+            "title": "Searching for Robust Neural Architectures via Comprehensive and Reliable Evaluation",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03128v1",
+            "references": []
+        },
+        {
+            "id": "2203.03123v1",
+            "authors": [
+                "Takyoung Kim",
+                "Hoonsang Yoon",
+                "Yukyung Lee",
+                "Pilsung Kang",
+                "Misuk Kim"
+            ],
+            "date": "2022-03-07",
+            "title": "Mismatch between Multi-turn Dialogue and its Evaluation Metric in Dialogue State Tracking",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03123v1",
+            "references": []
+        },
+        {
+            "id": "2203.03092v1",
+            "authors": [
+                "Hao-Ya Hsueh",
+                "Alexandru-Iosif Toma",
+                "Hussein Ali Jaafar",
+                "Edward Stow",
+                "Riku Murai",
+                "Paul H. J. Kelly",
+                "Sajad Saeedi"
+            ],
+            "date": "2022-03-07",
+            "title": "Systematic Comparison of Path Planning Algorithms using PathBench",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03092v1",
+            "references": []
+        },
+        {
+            "id": "2203.03087v1",
+            "authors": [
+                "Abduallah Mohamed",
+                "Fernando Lejarza",
+                "Stephanie Cahail",
+                "Christian Claudel",
+                "Edison Thomaz"
+            ],
+            "date": "2022-03-07",
+            "title": "HAR-GCNN: Deep Graph CNNs for Human Activity Recognition From Highly Unlabeled Mobile Sensor Data",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.HC",
+                "cs.LG"
+            ],
+            "journal": "IEEE PerCom Workshop on Context and Activity Modeling and\n  Recognition (CoMoReA), 2022",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03087v1",
+            "references": []
+        },
+        {
+            "id": "2203.03078v1",
+            "authors": [
+                "Alexander Long",
+                "Alan Blair",
+                "Herke van Hoof"
+            ],
+            "date": "2022-03-07",
+            "title": "Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03078v1",
+            "references": []
+        },
+        {
+            "id": "2203.03073v1",
+            "authors": [
+                "Neeraj Varshney",
+                "Swaroop Mishra",
+                "Chitta Baral"
+            ],
+            "date": "2022-03-07",
+            "title": "ILDAE: Instance-Level Difficulty Analysis of Evaluation Data",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03073v1",
+            "references": []
+        },
+        {
+            "id": "2203.03072v1",
+            "authors": [
+                "Canwen Xu",
+                "Zexue He",
+                "Zhankui He",
+                "Julian McAuley"
+            ],
+            "date": "2022-03-06",
+            "title": "Leashing the Inner Demons: Self-Detoxification for Language Models",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03072v1",
+            "references": []
+        },
+        {
+            "id": "2203.03068v1",
+            "authors": [
+                "Yinghui Pan",
+                "Hanyi Zhang",
+                "Yifeng Zeng",
+                "Biyang Ma",
+                "Jing Tang",
+                "Zhong Ming"
+            ],
+            "date": "2022-03-06",
+            "title": "Diversifying Agent's Behaviors in Interactive Decision Models",
+            "categories": [
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03068v1",
+            "references": []
+        },
+        {
+            "id": "2203.03062v1",
+            "authors": [
+                "Hung Phan",
+                "Ali Jannesari"
+            ],
+            "date": "2022-03-06",
+            "title": "Story Point Effort Estimation by Text Level Graph Neural Network",
+            "categories": [
+                "cs.SE",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03062v1",
+            "references": []
+        },
+        {
+            "id": "2203.03047v1",
+            "authors": [
+                "Chen Tang",
+                "Frank Guerin",
+                "Yucheng Li",
+                "Chenghua Lin"
+            ],
+            "date": "2022-03-06",
+            "title": "Recent Advances in Neural Text Generation: A Task-Agnostic Survey",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03047v1",
+            "references": []
+        },
+        {
+            "id": "2203.03022v1",
+            "authors": [
+                "Joseph Turian",
+                "Jordie Shier",
+                "Humair Raj Khan",
+                "Bhiksha Raj",
+                "Bj\u00f6rn W. Schuller",
+                "Christian J. Steinmetz",
+                "Colin Malloy",
+                "George Tzanetakis",
+                "Gissel Velarde",
+                "Kirk McNally",
+                "Max Henry",
+                "Nicolas Pinto",
+                "Camille Noufi",
+                "Christian Clough",
+                "Dorien Herremans",
+                "Eduardo Fonseca",
+                "Jesse Engel",
+                "Justin Salamon",
+                "Philippe Esling",
+                "Pranay Manocha",
+                "Shinji Watanabe",
+                "Zeyu Jin",
+                "Yonatan Bisk"
+            ],
+            "date": "2022-03-06",
+            "title": "HEAR 2021: Holistic Evaluation of Audio Representations",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "cs.LG",
+                "eess.AS",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03022v1",
+            "references": []
+        },
+        {
+            "id": "2203.02986v1",
+            "authors": [
+                "Mingxiao Li",
+                "Marie-Francine Moens"
+            ],
+            "date": "2022-03-06",
+            "title": "Modeling Coreference Relations in Visual Dialog",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.CL"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02986v1",
+            "references": []
+        },
+        {
+            "id": "2203.02985v1",
+            "authors": [
+                "Mingxiao Li",
+                "Marie-Francine Moens"
+            ],
+            "date": "2022-03-06",
+            "title": "Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.CL"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02985v1",
+            "references": []
+        },
+        {
+            "id": "2203.02959v1",
+            "authors": [
+                "Hrishav Bakul Barua",
+                "Ashis Sau",
+                "Ruddra dev Roychoudhury"
+            ],
+            "date": "2022-03-06",
+            "title": "A Perspective on Robotic Telepresence and Teleoperation using Cognition: Are we there yet?",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.CV",
+                "cs.HC",
+                "cs.LG",
+                "Artificial intelligence, Computer vision, Robotics, Machine\n  learning, Deep learning",
+                "I.2; I.2.9; I.2.10"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02959v1",
+            "references": []
+        },
+        {
+            "id": "2203.02958v1",
+            "authors": [
+                "Erick Galinkin"
+            ],
+            "date": "2022-03-06",
+            "title": "Towards a Responsible AI Development Lifecycle: Lessons From Information Security",
+            "categories": [
+                "cs.AI",
+                "cs.HC",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02958v1",
+            "references": []
+        },
+        {
+            "id": "2203.02956v1",
+            "authors": [
+                "Eloy Parra-Barrero",
+                "Yulia Sandamirskaya"
+            ],
+            "date": "2022-03-06",
+            "title": "What does it mean to represent? Mental representations as falsifiable memory patterns",
+            "categories": [
+                "cs.AI",
+                "q-bio.NC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02956v1",
+            "references": []
+        },
+        {
+            "id": "2203.02941v1",
+            "authors": [
+                "Aviad Eisenberg",
+                "Sharon Gannot",
+                "Shlomo E. Chazan"
+            ],
+            "date": "2022-03-06",
+            "title": "Single microphone speaker extraction using unified time-frequency Siamese-Unet",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "eess.AS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02941v1",
+            "references": []
+        },
+        {
+            "id": "2203.02927v1",
+            "authors": [
+                "Armin Moin",
+                "Ukrit Wattanavaekin",
+                "Alexandra Lungu",
+                "Moharram Challenger",
+                "Atta Badii",
+                "Stephan G\u00fcnnemann"
+            ],
+            "date": "2022-03-06",
+            "title": "Enabling Automated Machine Learning for Model-Driven AI Engineering",
+            "categories": [
+                "cs.SE",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02927v1",
+            "references": []
+        },
+        {
+            "id": "2203.02901v1",
+            "authors": [
+                "Sifan Song",
+                "Jinfeng Wang",
+                "Fengrui Cheng",
+                "Qirui Cao",
+                "Yihan Zuo",
+                "Yongteng Lei",
+                "Ruomai Yang",
+                "Chunxiao Yang",
+                "Frans Coenen",
+                "Jia Meng",
+                "Kang Dang",
+                "Jionglong Su"
+            ],
+            "date": "2022-03-06",
+            "title": "A Robust Framework of Chromosome Straightening with ViT-Patch GAN",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02901v1",
+            "references": []
+        },
+        {
+            "id": "2203.02896v1",
+            "authors": [
+                "Donghan Xie",
+                "Zhi Wang",
+                "Chunlin Chen",
+                "Daoyi Dong"
+            ],
+            "date": "2022-03-06",
+            "title": "Depthwise Convolution for Multi-Agent Communication with Enhanced Mean-Field Approximation",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02896v1",
+            "references": []
+        },
+        {
+            "id": "2203.02892v1",
+            "authors": [
+                "Ryusei Sugano",
+                "Ryoichi Shinkuma",
+                "Takayuki Nishio",
+                "Sohei Itahara",
+                "Narayan B. Mandayam"
+            ],
+            "date": "2022-03-06",
+            "title": "Watch from sky: machine-learning-based multi-UAV network for predictive police surveillance",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.MA",
+                "cs.NI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02892v1",
+            "references": []
+        },
+        {
+            "id": "2203.02889v1",
+            "authors": [
+                "Liang Chen",
+                "Runxin Xu",
+                "Baobao Chang"
+            ],
+            "date": "2022-03-06",
+            "title": "Focus on the Target's Vocabulary: Masked Label Smoothing for Machine Translation",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02889v1",
+            "references": []
+        },
+        {
+            "id": "2203.02878v1",
+            "authors": [
+                "Jiayi Zhang",
+                "Chang Liu",
+                "Junchi Yan",
+                "Xijun Li",
+                "Hui-Ling Zhen",
+                "Mingxuan Yuan"
+            ],
+            "date": "2022-03-06",
+            "title": "A Survey for Solving Mixed Integer Programming via Machine Learning",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02878v1",
+            "references": []
+        },
+        {
+            "id": "2203.02877v1",
+            "authors": [
+                "Kaiqi Chen",
+                "Jeffrey Fong",
+                "Harold Soh"
+            ],
+            "date": "2022-03-06",
+            "title": "MIRROR: Differentiable Deep Social Projection for Assistive Human-Robot Communication",
+            "categories": [
+                "cs.AI",
+                "cs.HC",
+                "cs.LG",
+                "cs.RO"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02877v1",
+            "references": []
+        },
+        {
+            "id": "2203.02855v1",
+            "authors": [
+                "R G Gayathri",
+                "Atul Sajjanhar",
+                "Yong Xiang"
+            ],
+            "date": "2022-03-06",
+            "title": "Hybrid Deep Learning Model using SPCAGAN Augmentation for Insider Threat Analysis",
+            "categories": [
+                "cs.CR",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02855v1",
+            "references": []
+        },
+        {
+            "id": "2203.02844v1",
+            "authors": [
+                "Xiaobai Ma",
+                "David Isele",
+                "Jayesh K. Gupta",
+                "Kikuo Fujimura",
+                "Mykel J. Kochenderfer"
+            ],
+            "date": "2022-03-06",
+            "title": "Recursive Reasoning Graph for Multi-Agent Reinforcement Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.MA"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02844v1",
+            "references": []
+        },
+        {
+            "id": "2203.02838v1",
+            "authors": [
+                "Xubo Liu",
+                "Xinhao Mei",
+                "Qiushi Huang",
+                "Jianyuan Sun",
+                "Jinzheng Zhao",
+                "Haohe Liu",
+                "Mark D. Plumbley",
+                "Volkan K\u0131l\u0131\u00e7",
+                "Wenwu Wang"
+            ],
+            "date": "2022-03-06",
+            "title": "Leveraging Pre-trained BERT for Audio Captioning",
+            "categories": [
+                "eess.AS",
+                "cs.AI",
+                "cs.SD"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02838v1",
+            "references": []
+        },
+        {
+            "id": "2203.02833v1",
+            "authors": [
+                "Maximilian Lam",
+                "Michael Mitzenmacher",
+                "Vijay Janapa Reddi",
+                "Gu-Yeon Wei",
+                "David Brooks"
+            ],
+            "date": "2022-03-05",
+            "title": "Tabula: Efficiently Computing Nonlinear Activation Functions for Secure Neural Network Inference",
+            "categories": [
+                "cs.CR",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02833v1",
+            "references": []
+        },
+        {
+            "id": "2203.02776v1",
+            "authors": [
+                "Frederic Becker",
+                "Julian Skirzy\u0144ski",
+                "Bas van Opheusden",
+                "Falk Lieder"
+            ],
+            "date": "2022-03-05",
+            "title": "Boosting human decision-making with AI-generated decision aids",
+            "categories": [
+                "cs.AI",
+                "cs.CY",
+                "cs.HC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02776v1",
+            "references": []
+        },
+        {
+            "id": "2203.02767v1",
+            "authors": [
+                "Yidan Feng",
+                "Biqi Yang",
+                "Xianzhi Li",
+                "Chi-Wing Fu",
+                "Rui Cao",
+                "Kai Chen",
+                "Qi Dou",
+                "Mingqiang Wei",
+                "Yun-Hui Liu",
+                "Pheng-Ann Heng"
+            ],
+            "date": "2022-03-05",
+            "title": "Towards Robust Part-aware Instance Segmentation for Industrial Bin Picking",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02767v1",
+            "references": []
+        },
+        {
+            "id": "2203.02714v1",
+            "authors": [
+                "Yong Liu",
+                "Siqi Mai",
+                "Xiangning Chen",
+                "Cho-Jui Hsieh",
+                "Yang You"
+            ],
+            "date": "2022-03-05",
+            "title": "Towards Efficient and Scalable Sharpness-Aware Minimization",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02714v1",
+            "references": []
+        },
+        {
+            "id": "2203.02700v1",
+            "authors": [
+                "Ensheng Shia",
+                "Yanlin Wangb",
+                "Lun Du",
+                "Hongyu Zhang",
+                "Shi Han",
+                "Dongmei Zhang",
+                "Hongbin Sun"
+            ],
+            "date": "2022-03-05",
+            "title": "ECMG: Exemplar-based Commit Message Generation",
+            "categories": [
+                "cs.SE",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02700v1",
+            "references": []
+        },
+        {
+            "id": "2203.02696v1",
+            "authors": [
+                "Nassim Belmecheri",
+                "Noureddine Aribi",
+                "Nadjib Lazaar",
+                "Yahia Lebbah",
+                "Samir Loudni"
+            ],
+            "date": "2022-03-05",
+            "title": "Boosting the Learning for Ranking Patterns",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02696v1",
+            "references": []
+        },
+        {
+            "id": "2203.02693v1",
+            "authors": [
+                "Weijie Zheng",
+                "Benjamin Doerr"
+            ],
+            "date": "2022-03-05",
+            "title": "Better Approximation Guarantees for the NSGA-II by Using the Current Crowding Distance",
+            "categories": [
+                "cs.NE",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02693v1",
+            "references": []
+        },
+        {
+            "id": "2203.02683v1",
+            "authors": [
+                "Louis Mahon",
+                "Carl Vogel"
+            ],
+            "date": "2022-03-05",
+            "title": "The Proof is in the Pudding: Using Automated Theorem Proving to Generate Cooking Recipes",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02683v1",
+            "references": []
+        },
+        {
+            "id": "2203.02679v1",
+            "authors": [
+                "Bin Wang",
+                "C. -C. Jay Kuo",
+                "Haizhou Li"
+            ],
+            "date": "2022-03-05",
+            "title": "Just Rank: Rethinking Evaluation with Word and Sentence Similarities",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02679v1",
+            "references": []
+        },
+        {
+            "id": "2203.02651v1",
+            "authors": [
+                "Seunghyun Lee",
+                "Byung Cheol Song"
+            ],
+            "date": "2022-03-05",
+            "title": "Ensemble Knowledge Guided Sub-network Search and Fine-tuning for Filter Pruning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02651v1",
+            "references": []
+        },
+        {
+            "id": "2203.02645v1",
+            "authors": [
+                "Chencheng Xu",
+                "Zhiwei Hong",
+                "Minlie Huang",
+                "Tao Jiang"
+            ],
+            "date": "2022-03-05",
+            "title": "Acceleration of Federated Learning with Alleviated Forgetting in Local Training",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02645v1",
+            "references": []
+        },
+        {
+            "id": "2203.02638v1",
+            "authors": [
+                "Tsung-Yen Yang",
+                "Tingnan Zhang",
+                "Linda Luu",
+                "Sehoon Ha",
+                "Jie Tan",
+                "Wenhao Yu"
+            ],
+            "date": "2022-03-05",
+            "title": "Safe Reinforcement Learning for Legged Locomotion",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02638v1",
+            "references": []
+        },
+        {
+            "id": "2203.02634v1",
+            "authors": [
+                "Jiachen Li",
+                "Haiming Gang",
+                "Hengbo Ma",
+                "Masayoshi Tomizuka",
+                "Chiho Choi"
+            ],
+            "date": "2022-03-05",
+            "title": "Important Object Identification with Semi-Supervised Learning for Autonomous Driving",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG",
+                "cs.RO"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02634v1",
+            "references": []
+        },
+        {
+            "id": "2203.02622v1",
+            "authors": [
+                "Alessandro Generale",
+                "Till Blume",
+                "Michael Cochez"
+            ],
+            "date": "2022-03-05",
+            "title": "Scaling R-GCN Training with Graph Summarization",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02622v1",
+            "references": []
+        },
+        {
+            "id": "2203.02616v1",
+            "authors": [
+                "Yuki Shirai",
+                "Devesh K. Jha",
+                "Arvind Raghunathan",
+                "Diego Romeres"
+            ],
+            "date": "2022-03-05",
+            "title": "Chance-Constrained Optimization in Contact-Rich Systems for Robust Manipulation",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": "Under review at IROS 2022",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02616v1",
+            "references": []
+        },
+        {
+            "id": "2203.02573v1",
+            "authors": [
+                "Ligong Han",
+                "Jian Ren",
+                "Hsin-Ying Lee",
+                "Francesco Barbieri",
+                "Kyle Olszewski",
+                "Shervin Minaee",
+                "Dimitris Metaxas",
+                "Sergey Tulyakov"
+            ],
+            "date": "2022-03-04",
+            "title": "Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02573v1",
+            "references": []
+        },
+        {
+            "id": "2203.02570v1",
+            "authors": [
+                "Lizhi Yang",
+                "Zhongyu Li",
+                "Jun Zeng",
+                "Koushil Sreenath"
+            ],
+            "date": "2022-03-04",
+            "title": "Bayesian Optimization Meets Hybrid Zero Dynamics: Safe Parameter Learning for Bipedal Locomotion Control",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.SY",
+                "eess.SY"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02570v1",
+            "references": []
+        },
+        {
+            "id": "2203.02554v1",
+            "authors": [
+                "Skylar Sutherland",
+                "Bernhard Egger",
+                "Joshua Tenenbaum"
+            ],
+            "date": "2022-03-04",
+            "title": "Building 3D Generative Models from Minimal Data",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.GR",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02554v1",
+            "references": []
+        },
+        {
+            "id": "2203.02533v1",
+            "authors": [
+                "Wenqiao Zhang",
+                "Lei Zhu",
+                "James Hallinan",
+                "Andrew Makmur",
+                "Shengyu Zhang",
+                "Qingpeng Cai",
+                "Beng Chin Ooi"
+            ],
+            "date": "2022-03-04",
+            "title": "BoostMIS: Boosting Medical Image Semi-supervised Learning with Adaptive Pseudo Labeling and Informative Active Annotation",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG"
+            ],
+            "journal": "CVPR 2022",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02533v1",
+            "references": []
+        },
+        {
+            "id": "2203.02502v1",
+            "authors": [
+                "Ahmed Imtiaz Humayun",
+                "Randall Balestriero",
+                "Anastasios Kyrillidis",
+                "Richard Baraniuk"
+            ],
+            "date": "2022-03-04",
+            "title": "No More Than 6ft Apart: Robust K-Means via Radius Upper Bounds",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02502v1",
+            "references": []
+        },
+        {
+            "id": "2203.02489v1",
+            "authors": [
+                "Dongxu Guo",
+                "Taylor Mordan",
+                "Alexandre Alahi"
+            ],
+            "date": "2022-03-04",
+            "title": "Pedestrian Stop and Go Forecasting with Hybrid Feature Fusion",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG",
+                "cs.RO"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02489v1",
+            "references": []
+        },
+        {
+            "id": "2203.02481v1",
+            "authors": [
+                "Ingmar Kanitscheider",
+                "Harri Edwards"
+            ],
+            "date": "2022-03-04",
+            "title": "AutoDIME: Automatic Design of Interesting Multi-Agent Environments",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.MA",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02481v1",
+            "references": []
+        },
+        {
+            "id": "2203.02475v1",
+            "authors": [
+                "Jingkai Chen",
+                "Jiaoyang Li",
+                "Yijiang Huang",
+                "Caelan Garrett",
+                "Dawei Sun",
+                "Chuchu Fan",
+                "Andreas Hofmann",
+                "Caitlin Mueller",
+                "Sven Koenig",
+                "Brian C. Williams"
+            ],
+            "date": "2022-03-04",
+            "title": "Cooperative Task and Motion Planning for Multi-Arm Assembly Systems",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02475v1",
+            "references": []
+        },
+        {
+            "id": "2203.02446v1",
+            "authors": [
+                "Zhenbang Wu",
+                "Cao Xiao",
+                "Lucas M Glass",
+                "David M Liebovitz",
+                "Jimeng Sun"
+            ],
+            "date": "2022-03-04",
+            "title": "AutoMap: Automatic Medical Code Mapping for Clinical Prediction Model Deployment",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02446v1",
+            "references": []
+        },
+        {
+            "id": "2203.02431v1",
+            "authors": [
+                "Zhengyang Feng",
+                "Shaohua Guo",
+                "Xin Tan",
+                "Ke Xu",
+                "Min Wang",
+                "Lizhuang Ma"
+            ],
+            "date": "2022-03-04",
+            "title": "Rethinking Efficient Lane Detection via Curve Modeling",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02431v1",
+            "references": []
+        },
+        {
+            "id": "2203.02424v1",
+            "authors": [
+                "Vic Degraeve",
+                "Gilles Vandewiele",
+                "Femke Ongenae",
+                "Sofie Van Hoecke"
+            ],
+            "date": "2022-03-04",
+            "title": "R-GCN: The R Could Stand for Random",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02424v1",
+            "references": []
+        },
+        {
+            "id": "2203.02399v1",
+            "authors": [
+                "Yu-Liang Chou",
+                "Chihcheng Hsieh",
+                "Catarina Moreira",
+                "Chun Ouyang",
+                "Joaquim Jorge",
+                "Jo\u00e3o Madeiras Pereira"
+            ],
+            "date": "2022-03-04",
+            "title": "Benchmark Evaluation of Counterfactual Algorithms for XAI: From a White Box to a Black Box",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02399v1",
+            "references": []
+        },
+        {
+            "id": "2203.03560v1",
+            "authors": [
+                "Xudong Zhang",
+                "Zan Wang",
+                "Jingke Zhao",
+                "Lanjun Wang"
+            ],
+            "date": "2022-03-04",
+            "title": "Targeted Data Poisoning Attack on News Recommendation System",
+            "categories": [
+                "cs.CR",
+                "cs.AI",
+                "cs.IR",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.03560v1",
+            "references": []
+        },
+        {
+            "id": "2203.02385v1",
+            "authors": [
+                "Dou Hu",
+                "Xiaolong Hou",
+                "Lingwei Wei",
+                "Lianxin Jiang",
+                "Yang Mo"
+            ],
+            "date": "2022-03-04",
+            "title": "MM-DFN: Multimodal Dynamic Fusion Network for Emotion Recognition in Conversations",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02385v1",
+            "references": []
+        },
+        {
+            "id": "2203.02246v1",
+            "authors": [
+                "Sara Mandelli",
+                "Nicol\u00f2 Bonettini",
+                "Paolo Bestagini",
+                "Stefano Tubaro"
+            ],
+            "date": "2022-03-04",
+            "title": "Detecting GAN-generated Images by Orthogonal Training of Multiple CNNs",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02246v1",
+            "references": []
+        },
+        {
+            "id": "2203.02228v1",
+            "authors": [
+                "Rafa\u0142 Skinderowicz"
+            ],
+            "date": "2022-03-04",
+            "title": "Improving Ant Colony Optimization Efficiency for Solving Large TSP Instances",
+            "categories": [
+                "cs.NE",
+                "cs.AI"
+            ],
+            "journal": "Applied Soft Computing, 2022, 108653, ISSN 1568-4946",
+            "doi": "10.1016/j.asoc.2022.108653",
+            "url": "http://arxiv.org/pdf/2203.02228v1",
+            "references": []
+        },
+        {
+            "id": "2203.02217v1",
+            "authors": [
+                "V. I. Yukalov"
+            ],
+            "date": "2022-03-04",
+            "title": "Quantification of emotions in decision making",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": "Soft Comput. 26 (2022) 2419-2436",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02217v1",
+            "references": []
+        },
+        {
+            "id": "2203.02216v1",
+            "authors": [
+                "Junwen Xiong",
+                "Yu Zhou",
+                "Peng Zhang",
+                "Lei Xie",
+                "Wei Huang",
+                "Yufei Zha"
+            ],
+            "date": "2022-03-04",
+            "title": "Look\\&Listen: Multi-Modal Correlation Learning for Active Speaker Detection and Speech Enhancement",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "cs.MM",
+                "eess.AS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02216v1",
+            "references": []
+        },
+        {
+            "id": "2203.02214v1",
+            "authors": [
+                "Minghuan Liu",
+                "Zhengbang Zhu",
+                "Yuzheng Zhuang",
+                "Weinan Zhang",
+                "Jianye Hao",
+                "Yong Yu",
+                "Jun Wang"
+            ],
+            "date": "2022-03-04",
+            "title": "Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02214v1",
+            "references": []
+        },
+        {
+            "id": "2203.02207v1",
+            "authors": [
+                "Daniela Schuster"
+            ],
+            "date": "2022-03-04",
+            "title": "Forms and Norms of Indecision in Argumentation Theory",
+            "categories": [
+                "cs.AI",
+                "cs.LO"
+            ],
+            "journal": "In Deontic Logic and Normative Systems, 15th International\n  Conference, DEON 2020/2021 (pp. 394-413). College Publications (2021)",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02207v1",
+            "references": []
+        },
+        {
+            "id": "2203.02205v1",
+            "authors": [
+                "Andrea Ceccarelli",
+                "Leonardo Montecchi"
+            ],
+            "date": "2022-03-04",
+            "title": "Safety-aware metrics for object detectors in autonomous driving",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02205v1",
+            "references": []
+        },
+        {
+            "id": "2203.02200v1",
+            "authors": [
+                "Yanwu Yang",
+                "Xin Li",
+                "Bernard J. Jansen",
+                "Daniel Zeng"
+            ],
+            "date": "2022-03-04",
+            "title": "Aggregate effects of advertising decisions: a complex systems look at search engine advertising via an experimental study",
+            "categories": [
+                "cs.AI",
+                "cs.CY",
+                "68Txx",
+                "I.2.6"
+            ],
+            "journal": "Internet Research, 28(4), 1079-1102 (2018)",
+            "doi": "10.1108/IntR-10-2017-0377",
+            "url": "http://arxiv.org/pdf/2203.02200v1",
+            "references": []
+        },
+        {
+            "id": "2203.02195v1",
+            "authors": [
+                "Harry Cheng",
+                "Yangyang Guo",
+                "Tianyi Wang",
+                "Qi Li",
+                "Tao Ye",
+                "Liqiang Nie"
+            ],
+            "date": "2022-03-04",
+            "title": "Voice-Face Homogeneity Tells Deepfake",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02195v1",
+            "references": []
+        },
+        {
+            "id": "2203.02192v1",
+            "authors": [
+                "Huiran Li",
+                "Yanwu Yang"
+            ],
+            "date": "2022-03-04",
+            "title": "Optimal Keywords Grouping in Sponsored Search Advertising under Uncertain Environments",
+            "categories": [
+                "cs.AI",
+                "cs.IR",
+                "68Txx",
+                "I.2.6"
+            ],
+            "journal": "International Journal of Electronic Commerce, 24(1), 107-129\n  (2020)",
+            "doi": "10.1080/10864415.2019.1683704",
+            "url": "http://arxiv.org/pdf/2203.02192v1",
+            "references": []
+        },
+        {
+            "id": "2203.02180v1",
+            "authors": [
+                "Yulin Xu",
+                "Zhen Yang",
+                "Fandong Meng",
+                "JieZhou"
+            ],
+            "date": "2022-03-04",
+            "title": "EAG: Extract and Generate Multi-way Aligned Corpus for Complete Multi-lingual Neural Machine Translation",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02180v1",
+            "references": []
+        },
+        {
+            "id": "2203.02158v1",
+            "authors": [
+                "Youneng Bao",
+                "Fangyang Meng",
+                "Wen Tan",
+                "Chao Li",
+                "Yonghong Tian",
+                "Yongsheng Liang"
+            ],
+            "date": "2022-03-04",
+            "title": "Transformations in Learned Image Compression from a Communication Perspective",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02158v1",
+            "references": []
+        },
+        {
+            "id": "2203.02155v1",
+            "authors": [
+                "Long Ouyang",
+                "Jeff Wu",
+                "Xu Jiang",
+                "Diogo Almeida",
+                "Carroll L. Wainwright",
+                "Pamela Mishkin",
+                "Chong Zhang",
+                "Sandhini Agarwal",
+                "Katarina Slama",
+                "Alex Ray",
+                "John Schulman",
+                "Jacob Hilton",
+                "Fraser Kelton",
+                "Luke Miller",
+                "Maddie Simens",
+                "Amanda Askell",
+                "Peter Welinder",
+                "Paul Christiano",
+                "Jan Leike",
+                "Ryan Lowe"
+            ],
+            "date": "2022-03-04",
+            "title": "Training language models to follow instructions with human feedback",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02155v1",
+            "references": []
+        },
+        {
+            "id": "2203.02150v1",
+            "authors": [
+                "Chengjin_Xu",
+                "Fenglong Su",
+                "Jens Lehmann"
+            ],
+            "date": "2022-03-04",
+            "title": "Time-aware Graph Neural Networks for Entity Alignment between Temporal Knowledge Graphs",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02150v1",
+            "references": []
+        },
+        {
+            "id": "2203.02131v1",
+            "authors": [
+                "Shang Zhao",
+                "Ce Wang",
+                "Qiyuan Wang",
+                "Yanzhe Liu",
+                "S Kevin Zhou"
+            ],
+            "date": "2022-03-04",
+            "title": "3D endoscopic depth estimation using 3D surface-aware constraints",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.RO"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02131v1",
+            "references": []
+        },
+        {
+            "id": "2203.02124v1",
+            "authors": [
+                "Soheil Esmaeilzadeh",
+                "Negin Salajegheh",
+                "Amir Ziai",
+                "Jeff Boote"
+            ],
+            "date": "2022-03-04",
+            "title": "Abuse and Fraud Detection in Streaming Services Using Heuristic-Aware Machine Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02124v1",
+            "references": []
+        },
+        {
+            "id": "2203.02123v1",
+            "authors": [
+                "Zhenxiong Miao",
+                "Xingshu Chen",
+                "Haizhou Wang",
+                "Rui Tang",
+                "Zhou Yang",
+                "Wenyi Tang"
+            ],
+            "date": "2022-03-04",
+            "title": "Detecting Offensive Language on Social Networks: An End-to-end Detection Method based on Graph Attention Networks",
+            "categories": [
+                "cs.SI",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02123v1",
+            "references": []
+        },
+        {
+            "id": "2203.02119v1",
+            "authors": [
+                "Tianhao Wu",
+                "Fangwei Zhong",
+                "Yiran Geng",
+                "Hongchen Wang",
+                "Yongjian Zhu",
+                "Yizhou Wang",
+                "Hao Dong"
+            ],
+            "date": "2022-03-04",
+            "title": "GraspARL: Dynamic Grasping via Adversarial Reinforcement Learning",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02119v1",
+            "references": []
+        },
+        {
+            "id": "2203.02116v1",
+            "authors": [
+                "Michal Ptaszynski",
+                "Pawel Dybala",
+                "Tatsuaki Matsuba",
+                "Fumito Masui",
+                "Rafal Rzepka",
+                "Kenji Araki",
+                "Yoshio Momouchi"
+            ],
+            "date": "2022-03-04",
+            "title": "In the Service of Online Order: Tackling Cyber-Bullying with Machine Learning and Affect Analysis",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": "International Journal of Computational Linguistics Research, Vol.\n  1, Issue 3, pp. 135-154, 2010",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02116v1",
+            "references": []
+        },
+        {
+            "id": "2203.02115v1",
+            "authors": [
+                "Chenhao Lin",
+                "Jingyi Deng",
+                "Pengbin Hu",
+                "Chao Shen",
+                "Qian Wang",
+                "Qi Li"
+            ],
+            "date": "2022-03-04",
+            "title": "Towards Benchmarking and Evaluating Deepfake Detection",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02115v1",
+            "references": []
+        },
+        {
+            "id": "2203.02091v1",
+            "authors": [
+                "Arjun Sripathy",
+                "Andreea Bobu",
+                "Zhongyu Li",
+                "Koushil Sreenath",
+                "Daniel S. Brown",
+                "Anca D. Dragan"
+            ],
+            "date": "2022-03-04",
+            "title": "Teaching Robots to Span the Space of Functional Expressive Motion",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02091v1",
+            "references": []
+        },
+        {
+            "id": "2203.02080v1",
+            "authors": [
+                "Shahbaz Rezaei",
+                "Xin Liu"
+            ],
+            "date": "2022-03-04",
+            "title": "An Efficient Subpopulation-based Membership Inference Attack",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CR",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02080v1",
+            "references": []
+        },
+        {
+            "id": "2203.02077v1",
+            "authors": [
+                "Guoyao Li",
+                "Shahbaz Rezaei",
+                "Xin Liu"
+            ],
+            "date": "2022-03-04",
+            "title": "User-Level Membership Inference Attack against Metric Embedding Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CR"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02077v1",
+            "references": []
+        },
+        {
+            "id": "2203.02053v1",
+            "authors": [
+                "Weixin Liang",
+                "Yuhui Zhang",
+                "Yongchan Kwon",
+                "Serena Yeung",
+                "James Zou"
+            ],
+            "date": "2022-03-03",
+            "title": "Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02053v1",
+            "references": []
+        },
+        {
+            "id": "2203.02016v1",
+            "authors": [
+                "Panagiotis Tigas",
+                "Yashas Annadani",
+                "Andrew Jesson",
+                "Bernhard Sch\u00f6lkopf",
+                "Yarin Gal",
+                "Stefan Bauer"
+            ],
+            "date": "2022-03-03",
+            "title": "Interventions, Where and How? Experimental Design for Causal Models at Scale",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02016v1",
+            "references": []
+        },
+        {
+            "id": "2203.02013v1",
+            "authors": [
+                "Yiwei Lyu",
+                "Paul Pu Liang",
+                "Zihao Deng",
+                "Ruslan Salakhutdinov",
+                "Louis-Philippe Morency"
+            ],
+            "date": "2022-03-03",
+            "title": "DIME: Fine-grained Interpretations of Multimodal Models via Disentangled Local Explanations",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CL",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.02013v1",
+            "references": []
+        },
+        {
+            "id": "2203.01968v1",
+            "authors": [
+                "Jonas C. Kiemel",
+                "Torsten Kr\u00f6ger"
+            ],
+            "date": "2022-03-03",
+            "title": "Learning Time-optimized Path Tracking with or without Sensory Feedback",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01968v1",
+            "references": []
+        },
+        {
+            "id": "2203.01928v1",
+            "authors": [
+                "Jonathan Crabb\u00e9",
+                "Mihaela van der Schaar"
+            ],
+            "date": "2022-03-03",
+            "title": "Label-Free Explainability for Unsupervised Models",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01928v1",
+            "references": []
+        },
+        {
+            "id": "2203.01922v1",
+            "authors": [
+                "Feng Li",
+                "Hao Zhang",
+                "Yi-Fan Zhang",
+                "Shilong Liu",
+                "Jian Guo",
+                "Lionel M. Ni",
+                "PengChuan Zhang",
+                "Lei Zhang"
+            ],
+            "date": "2022-03-03",
+            "title": "Vision-Language Intelligence: Tasks, Representation Learning, and Large Models",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.CL"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01922v1",
+            "references": []
+        },
+        {
+            "id": "2203.01914v1",
+            "authors": [
+                "Willi Menapace",
+                "Aliaksandr Siarohin",
+                "Christian Theobalt",
+                "Vladislav Golyanik",
+                "Sergey Tulyakov",
+                "St\u00e9phane Lathuili\u00e8re",
+                "Elisa Ricci"
+            ],
+            "date": "2022-03-03",
+            "title": "Playable Environments: Video Manipulation in Space and Time",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01914v1",
+            "references": []
+        },
+        {
+            "id": "2203.01900v1",
+            "authors": [
+                "Sulin Liu",
+                "Qing Feng",
+                "David Eriksson",
+                "Benjamin Letham",
+                "Eytan Bakshy"
+            ],
+            "date": "2022-03-03",
+            "title": "Sparse Bayesian Optimization",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "math.OC",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01900v1",
+            "references": []
+        },
+        {
+            "id": "2203.01895v1",
+            "authors": [
+                "Pervaiz Iqbal Khan",
+                "Shoaib Ahmed Siddiqui",
+                "Imran Razzak",
+                "Andreas Dengel",
+                "Sheraz Ahmed"
+            ],
+            "date": "2022-03-03",
+            "title": "Improving Health Mentioning Classification of Tweets using Contrastive Adversarial Training",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01895v1",
+            "references": []
+        },
+        {
+            "id": "2203.01884v1",
+            "authors": [
+                "Hongzhi Wen",
+                "Jiayuan Ding",
+                "Wei Jin",
+                "Yuying Xie",
+                "Jiliang Tang"
+            ],
+            "date": "2022-03-03",
+            "title": "Graph Neural Networks for Multimodal Single-Cell Data Integration",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01884v1",
+            "references": []
+        },
+        {
+            "id": "2203.01881v1",
+            "authors": [
+                "Neha Mukund Kalibhat",
+                "Kanika Narang",
+                "Liang Tan",
+                "Hamed Firooz",
+                "Maziar Sanjabi",
+                "Soheil Feizi"
+            ],
+            "date": "2022-03-03",
+            "title": "Understanding Failure Modes of Self-Supervised Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01881v1",
+            "references": []
+        },
+        {
+            "id": "2203.01862v1",
+            "authors": [
+                "Maria Tsfasman",
+                "Anja Philippsen",
+                "Carlo Mazzola",
+                "Serge Thill",
+                "Alessandra Sciutti",
+                "Yukie Nagai"
+            ],
+            "date": "2022-03-03",
+            "title": "The world seems different in a social context: a neural network analysis of human experimental data",
+            "categories": [
+                "q-bio.NC",
+                "cs.AI",
+                "cs.HC",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01862v1",
+            "references": []
+        },
+        {
+            "id": "2203.01859v1",
+            "authors": [
+                "Matteo Zecchin",
+                "Sangwoo Park",
+                "Osvaldo Simeone",
+                "Marios Kountouris",
+                "David Gesbert"
+            ],
+            "date": "2022-03-03",
+            "title": "Robust PAC$^m$: Training Ensemble Models Under Model Misspecification and Outliers",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.IT",
+                "math.IT"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01859v1",
+            "references": []
+        },
+        {
+            "id": "2203.01855v1",
+            "authors": [
+                "Michael S. Lee",
+                "Henny Admoni",
+                "Reid Simmons"
+            ],
+            "date": "2022-03-03",
+            "title": "Reasoning about Counterfactuals to Improve Human Inverse Reinforcement Learning",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.HC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01855v1",
+            "references": []
+        },
+        {
+            "id": "2203.01852v2",
+            "authors": [
+                "Benito van der Zander",
+                "Marcel Wien\u00f6bst",
+                "Markus Bl\u00e4ser",
+                "Maciej Li\u015bkiewicz"
+            ],
+            "date": "2022-03-03",
+            "title": "Identification in Tree-shaped Linear Structural Causal Models",
+            "categories": [
+                "cs.AI",
+                "cs.LG",
+                "cs.SC",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01852v2",
+            "references": []
+        },
+        {
+            "id": "2203.01848v1",
+            "authors": [
+                "Philip Versteeg",
+                "Cheng Zhang",
+                "Joris M. Mooij"
+            ],
+            "date": "2022-03-03",
+            "title": "Local Constraint-Based Causal Discovery under Selection Bias",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01848v1",
+            "references": []
+        },
+        {
+            "id": "2203.01821v1",
+            "authors": [
+                "Shuijing Liu",
+                "Peixin Chang",
+                "Zhe Huang",
+                "Neeloy Chakraborty",
+                "Weihang Liang",
+                "Junyi Geng",
+                "Katherine Driggs-Campbell"
+            ],
+            "date": "2022-03-03",
+            "title": "Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01821v1",
+            "references": []
+        },
+        {
+            "id": "2203.01758v1",
+            "authors": [
+                "Thanh Nguyen-Tang"
+            ],
+            "date": "2022-03-03",
+            "title": "On Practical Reinforcement Learning: Provable Robustness, Scalability, and Statistical Efficiency",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01758v1",
+            "references": []
+        },
+        {
+            "id": "2203.01738v1",
+            "authors": [
+                "Javad T. Firouzjaee",
+                "Pouriya Khaliliyan"
+            ],
+            "date": "2022-03-03",
+            "title": "Machine learning model to project the impact of Ukraine crisis",
+            "categories": [
+                "q-fin.ST",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01738v1",
+            "references": []
+        },
+        {
+            "id": "2203.01665v2",
+            "authors": [
+                "Peng Ye",
+                "Baopu Li",
+                "Yikang Li",
+                "Tao Chen",
+                "Jiayuan Fan",
+                "Wanli Ouyang"
+            ],
+            "date": "2022-03-03",
+            "title": "$\u03b2$-DARTS: Beta-Decay Regularization for Differentiable Architecture Search",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01665v2",
+            "references": []
+        },
+        {
+            "id": "2203.01657v1",
+            "authors": [
+                "Isabelle Hupont",
+                "Emilia Gomez",
+                "Songul Tolan",
+                "Lorenzo Porcaro",
+                "Ana Freire"
+            ],
+            "date": "2022-03-03",
+            "title": "Monitoring Diversity of AI Conferences: Lessons Learnt and Future Challenges in the DivinAI Project",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01657v1",
+            "references": []
+        },
+        {
+            "id": "2203.01654v1",
+            "authors": [
+                "Manu Lahariya",
+                "Nasrin Sadeghianpourhamami",
+                "Chris Develder"
+            ],
+            "date": "2022-03-03",
+            "title": "Optimized cost function for demand response coordination of multiple EV charging stations using reinforcement learning",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": "Proceedings of the 6th ACM International Conference on Systems for\n  Energy-Efficient Buildings, Cities, and Transportation (BuildSys 19),\n  November 2019 Pages 344 345",
+            "doi": "10.1145/3360322.3360992",
+            "url": "http://arxiv.org/pdf/2203.01654v1",
+            "references": []
+        },
+        {
+            "id": "2203.01645v1",
+            "authors": [
+                "Chi-Mao Fan",
+                "Tsung-Jung Liu",
+                "Kuan-Hsien Liu"
+            ],
+            "date": "2022-03-03",
+            "title": "Selective Residual M-Net for Real Image Denoising",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01645v1",
+            "references": []
+        },
+        {
+            "id": "2203.01640v1",
+            "authors": [
+                "Tobias Meggendorfer"
+            ],
+            "date": "2022-03-03",
+            "title": "Risk-aware Stochastic Shortest Path",
+            "categories": [
+                "eess.SY",
+                "cs.AI",
+                "cs.SY"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01640v1",
+            "references": []
+        },
+        {
+            "id": "2203.01628v1",
+            "authors": [
+                "Charilaos Akasiadis",
+                "Evgenios Kladis",
+                "Evangelos Michelioudakis",
+                "Elias Alevizos",
+                "Alexander Artikis"
+            ],
+            "date": "2022-03-03",
+            "title": "Early Time-Series Classification Algorithms: An Empirical Comparison",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01628v1",
+            "references": []
+        },
+        {
+            "id": "2203.01940v1",
+            "authors": [
+                "Hussam Azzuni",
+                "Muhammad Ridzuan",
+                "Min Xu",
+                "Mohammad Yaqub"
+            ],
+            "date": "2022-03-03",
+            "title": "Color Space-based HoVer-Net for Nuclei Instance Segmentation and Classification",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01940v1",
+            "references": []
+        },
+        {
+            "id": "2203.01608v1",
+            "authors": [
+                "Cristina-Iulia Bucur",
+                "Tobias Kuhn",
+                "Davide Ceolin",
+                "Jacco van Ossenbruggen"
+            ],
+            "date": "2022-03-03",
+            "title": "Nanopublication-Based Semantic Publishing and Reviewing: A Field Study with Formalization Papers",
+            "categories": [
+                "cs.DL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01608v1",
+            "references": []
+        },
+        {
+            "id": "2203.01584v1",
+            "authors": [
+                "Zhibo Wang",
+                "Xiaowei Dong",
+                "Henry Xue",
+                "Zhifei Zhang",
+                "Weifeng Chiu",
+                "Tao Wei",
+                "Kui Ren"
+            ],
+            "date": "2022-03-03",
+            "title": "Fairness-aware Adversarial Perturbation Towards Bias Mitigation for Deployed Deep Models",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01584v1",
+            "references": []
+        },
+        {
+            "id": "2203.01556v1",
+            "authors": [
+                "Ibrahim Khan",
+                "Thai Van Nguyen",
+                "Xincheng Dai",
+                "Ruck Thawonmas"
+            ],
+            "date": "2022-03-03",
+            "title": "DareFightingICE Competition: A Fighting Game Sound Design and AI Competition",
+            "categories": [
+                "cs.HC",
+                "cs.AI",
+                "cs.SD",
+                "eess.AS",
+                "I.2; H.5.2; H.5.5"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01556v1",
+            "references": []
+        },
+        {
+            "id": "2203.01937v1",
+            "authors": [
+                "Yuanhong Chen",
+                "Fengbei Liu",
+                "Yu Tian",
+                "Yuyuan Liu",
+                "Gustavo Carneiro"
+            ],
+            "date": "2022-03-03",
+            "title": "Semantic-guided Image Virtual Attribute Learning for Noisy Multi-label Chest X-ray Classification",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01937v1",
+            "references": []
+        },
+        {
+            "id": "2203.01552v1",
+            "authors": [
+                "Jamin Shin",
+                "Hangyeol Yu",
+                "Hyeongdon Moon",
+                "Andrea Madotto",
+                "Juneyoung Park"
+            ],
+            "date": "2022-03-03",
+            "title": "Dialogue Summaries as Dialogue States (DS2), Template-Guided Summarization for Few-shot Dialogue State Tracking",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01552v1",
+            "references": []
+        },
+        {
+            "id": "2203.01544v1",
+            "authors": [
+                "Shin-ichi Ikegawa",
+                "Ryuji Saiin",
+                "Yoshihide Sawada",
+                "Naotake Natori"
+            ],
+            "date": "2022-03-03",
+            "title": "Rethinking the role of normalization and residual blocks for spiking neural networks",
+            "categories": [
+                "cs.NE",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01544v1",
+            "references": []
+        },
+        {
+            "id": "2203.01543v2",
+            "authors": [
+                "Andy T. Liu",
+                "Wei Xiao",
+                "Henghui Zhu",
+                "Dejiao Zhang",
+                "Shang-Wen Li",
+                "Andrew Arnold"
+            ],
+            "date": "2022-03-03",
+            "title": "QaNER: Prompting Question Answering Models for Few-shot Named Entity Recognition",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01543v2",
+            "references": []
+        },
+        {
+            "id": "2203.01536v1",
+            "authors": [
+                "Khawar Islam"
+            ],
+            "date": "2022-03-03",
+            "title": "Recent Advances in Vision Transformer: A Survey and Outlook of Recent Work",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01536v1",
+            "references": []
+        },
+        {
+            "id": "2203.01520v1",
+            "authors": [
+                "Mikhail Galkin",
+                "Max Berrendorf",
+                "Charles Tapley Hoyt"
+            ],
+            "date": "2022-03-03",
+            "title": "An Open Challenge for Inductive Link Prediction on Knowledge Graphs",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01520v1",
+            "references": []
+        },
+        {
+            "id": "2203.01934v1",
+            "authors": [
+                "Fakrul Islam Tushar",
+                "Husam Nujaim",
+                "Wanyi Fu",
+                "Ehsan Abadi",
+                "Maciej A. Mazurowski",
+                "Ehsan Samei",
+                "William P. Segars",
+                "Joseph Y. Lo"
+            ],
+            "date": "2022-03-03",
+            "title": "Quality or Quantity: Toward a Unified Approach for Multi-organ Segmentation in Body CT",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01934v1",
+            "references": []
+        },
+        {
+            "id": "2203.01465v1",
+            "authors": [
+                "Toshitaka Matsuki"
+            ],
+            "date": "2022-03-03",
+            "title": "Deep Q-network using reservoir computing with multi-layered readout",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.NE"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01465v1",
+            "references": []
+        },
+        {
+            "id": "2203.01426v1",
+            "authors": [
+                "Peng Zhou",
+                "Jason K. Eshraghian",
+                "Dong-Uk Choi",
+                "Sung-Mo Kang"
+            ],
+            "date": "2022-03-02",
+            "title": "SPICEprop: Backpropagating Errors Through Memristive Spiking Neural Networks",
+            "categories": [
+                "cs.NE",
+                "cs.AI",
+                "cs.ET"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01426v1",
+            "references": []
+        },
+        {
+            "id": "2203.01416v1",
+            "authors": [
+                "Peng Zhou",
+                "Dong-Uk Choi",
+                "Jason K. Eshraghian",
+                "Sung-Mo Kang"
+            ],
+            "date": "2022-03-02",
+            "title": "A Fully Memristive Spiking Neural Network with Unsupervised Learning",
+            "categories": [
+                "cs.NE",
+                "cs.AI",
+                "cs.ET"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01416v1",
+            "references": []
+        },
+        {
+            "id": "2203.01394v1",
+            "authors": [
+                "Md. Taufiqul Haque Khan Tusar",
+                "Md. Touhidul Islam",
+                "Foyjul Islam Raju"
+            ],
+            "date": "2022-03-02",
+            "title": "Detecting Chronic Kidney Disease(CKD) at the Initial Stage: A Novel Hybrid Feature-selection Method and Robust Data Preparation Pipeline for Different ML Techniques",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01394v1",
+            "references": []
+        },
+        {
+            "id": "2203.01387v2",
+            "authors": [
+                "Rafael Figueiredo Prudencio",
+                "Marcos R. O. A. Maximo",
+                "Esther Luna Colombini"
+            ],
+            "date": "2022-03-02",
+            "title": "A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01387v2",
+            "references": []
+        },
+        {
+            "id": "2203.01386v1",
+            "authors": [
+                "Kai Yi",
+                "Xiaoqian Shen",
+                "Yunhao Gou",
+                "Mohamed Elhoseiny"
+            ],
+            "date": "2022-03-02",
+            "title": "Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01386v1",
+            "references": []
+        },
+        {
+            "id": "2203.01368v1",
+            "authors": [
+                "Ian Nunes",
+                "Matheus B. Pereira",
+                "Hugo Oliveira",
+                "Jefersson A. dos Santos",
+                "Marcus Poggi"
+            ],
+            "date": "2022-03-02",
+            "title": "Conditional Reconstruction for Open-set Semantic Segmentation",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01368v1",
+            "references": []
+        },
+        {
+            "id": "2203.01311v2",
+            "authors": [
+                "Paul Pu Liang",
+                "Yiwei Lyu",
+                "Xiang Fan",
+                "Shentong Mo",
+                "Dani Yogatama",
+                "Louis-Philippe Morency",
+                "Ruslan Salakhutdinov"
+            ],
+            "date": "2022-03-02",
+            "title": "HighMMT: Towards Modality and Task Generalization for High-Modality Representation Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CL",
+                "cs.CV",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01311v2",
+            "references": []
+        },
+        {
+            "id": "2203.01310v1",
+            "authors": [
+                "Yuanshun Yao",
+                "Chong Wang",
+                "Hang Li"
+            ],
+            "date": "2022-03-02",
+            "title": "Counterfactually Evaluating Explanations in Recommender Systems",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01310v1",
+            "references": []
+        },
+        {
+            "id": "2203.01305v1",
+            "authors": [
+                "Feng Li",
+                "Hao Zhang",
+                "Shilong Liu",
+                "Jian Guo",
+                "Lionel M. Ni",
+                "Lei Zhang"
+            ],
+            "date": "2022-03-02",
+            "title": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01305v1",
+            "references": []
+        },
+        {
+            "id": "2203.01298v2",
+            "authors": [
+                "Ishaan Mehta",
+                "Sajad Saeedi"
+            ],
+            "date": "2022-03-02",
+            "title": "Pareto Frontier Approximation Network (PA-Net) to Solve Bi-objective TSP",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01298v2",
+            "references": []
+        },
+        {
+            "id": "2203.01296v1",
+            "authors": [
+                "Chi-Mao Fan",
+                "Tsung-Jung Liu",
+                "Kuan-Hsien Liu"
+            ],
+            "date": "2022-03-02",
+            "title": "Half Wavelet Attention on M-Net+ for Low-Light Image Enhancement",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01296v1",
+            "references": []
+        },
+        {
+            "id": "2203.01294v1",
+            "authors": [
+                "Soheil Esmaeilzadeh",
+                "Brian Williams",
+                "Davood Shamsi",
+                "Onar Vikingstad"
+            ],
+            "date": "2022-03-02",
+            "title": "Providing Insights for Open-Response Surveys via End-to-End Context-Aware Clustering",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.CL"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01294v1",
+            "references": []
+        },
+        {
+            "id": "2203.01287v1",
+            "authors": [
+                "Yiming Liu",
+                "Raz Leib",
+                "William Dudley",
+                "Ali Shafti",
+                "A. Aldo Faisal",
+                "David W. Franklin"
+            ],
+            "date": "2022-03-02",
+            "title": "The role of haptic communication in dyadic collaborative object manipulation tasks",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.HC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01287v1",
+            "references": []
+        },
+        {
+            "id": "2203.01248v1",
+            "authors": [
+                "Mingkun Chen",
+                "Robert Lupoiu",
+                "Chenkai Mao",
+                "Der-Han Huang",
+                "Jiaqi Jiang",
+                "Philippe Lalanne",
+                "Jonathan A. Fan"
+            ],
+            "date": "2022-03-02",
+            "title": "WaveY-Net: Physics-augmented deep learning for high-speed electromagnetic simulation and optimization",
+            "categories": [
+                "physics.app-ph",
+                "cs.AI",
+                "physics.comp-ph"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01248v1",
+            "references": []
+        },
+        {
+            "id": "2203.01238v1",
+            "authors": [
+                "Jinxin Zhou",
+                "Xiao Li",
+                "Tianyu Ding",
+                "Chong You",
+                "Qing Qu",
+                "Zhihui Zhu"
+            ],
+            "date": "2022-03-02",
+            "title": "On the Optimization Landscape of Neural Collapse under MSE Loss: Global Optimality with Unconstrained Features",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.IT",
+                "math.IT",
+                "math.OC",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01238v1",
+            "references": []
+        },
+        {
+            "id": "2203.01205v1",
+            "authors": [
+                "Shuo Liu",
+                "Adria Mallol-Ragolta",
+                "Emilia Parada-Cabeleiro",
+                "Kun Qian",
+                "Xin Jing",
+                "Alexander Kathan",
+                "Bin Hu",
+                "Bjoern W. Schuller"
+            ],
+            "date": "2022-03-02",
+            "title": "Audio Self-supervised Learning: A Survey",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "eess.AS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01205v1",
+            "references": []
+        },
+        {
+            "id": "2203.01201v1",
+            "authors": [
+                "Nir Oren",
+                "Bruno Yun",
+                "Assaf Libman",
+                "Murilo S. Baptista"
+            ],
+            "date": "2022-03-02",
+            "title": "Analytical Solutions for the Inverse Problem within Gradual Semantics",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01201v1",
+            "references": []
+        },
+        {
+            "id": "2203.01176v1",
+            "authors": [
+                "Tiago Ribeiro",
+                "Ana Paiva"
+            ],
+            "date": "2022-03-02",
+            "title": "Avant-Satie! Using ERIK to encode task-relevant expressivity into the animation of autonomous social robots",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.HC",
+                "68T40 (Primary) 68U99 (Secondary)",
+                "I.2.9; I.2.1; I.3.6; J.0"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01176v1",
+            "references": []
+        },
+        {
+            "id": "2203.01156v1",
+            "authors": [
+                "Nico Jahn",
+                "Michael Siebert"
+            ],
+            "date": "2022-03-02",
+            "title": "Engineering the Neural Automatic Passenger Counter",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01156v1",
+            "references": []
+        },
+        {
+            "id": "2203.01153v1",
+            "authors": [
+                "Oren Spector",
+                "Vladimir Tchuiev",
+                "Dotan Di Castro"
+            ],
+            "date": "2022-03-02",
+            "title": "InsertionNet 2.0: Minimal Contact Multi-Step Insertion Using Multimodal Multiview Sensory Input",
+            "categories": [
+                "cs.RO",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01153v1",
+            "references": []
+        },
+        {
+            "id": "2203.01146v1",
+            "authors": [
+                "Jiabao Ji",
+                "Yoon Kim",
+                "James Glass",
+                "Tianxing He"
+            ],
+            "date": "2022-03-02",
+            "title": "Controlling the Focus of Pretrained Language Generation Models",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": "ACL Findings 2022",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01146v1",
+            "references": []
+        },
+        {
+            "id": "2203.01810v1",
+            "authors": [
+                "Bang You",
+                "Oleg Arenz",
+                "Youping Chen",
+                "Jan Peters"
+            ],
+            "date": "2022-03-02",
+            "title": "Integrating Contrastive Learning with Dynamic Models for Reinforcement Learning from Images",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": "Neurocomputing 476(2022)102-114",
+            "doi": "10.1016/j.neucom.2021.12.094",
+            "url": "http://arxiv.org/pdf/2203.01810v1",
+            "references": []
+        },
+        {
+            "id": "2203.01104v1",
+            "authors": [
+                "Ze-Feng Gao",
+                "Peiyu Liu",
+                "Wayne Xin Zhao",
+                "Zhong-Yi Lu",
+                "Ji-Rong Wen"
+            ],
+            "date": "2022-03-02",
+            "title": "Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.LG",
+                "quant-ph"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01104v1",
+            "references": []
+        },
+        {
+            "id": "2203.01087v1",
+            "authors": [
+                "Qing Cheng",
+                "Niclas Zeller",
+                "Daniel Cremers"
+            ],
+            "date": "2022-03-02",
+            "title": "Vision-based Large-scale 3D Semantic Mapping for Autonomous Driving Applications",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "I.2.10; I.4.5; I.4.6; I.4.8; I.5.4"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01087v1",
+            "references": []
+        },
+        {
+            "id": "2203.01077v1",
+            "authors": [
+                "Hiroki Matsutani",
+                "Mineto Tsukada",
+                "Masaaki Kondo"
+            ],
+            "date": "2022-03-02",
+            "title": "On-Device Learning: A Neural Network Based Field-Trainable Edge AI",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01077v1",
+            "references": []
+        },
+        {
+            "id": "2203.01068v1",
+            "authors": [
+                "Ola Hall",
+                "Mattias Ohlsson",
+                "Thortseinn R\u00f6gnvaldsson"
+            ],
+            "date": "2022-03-02",
+            "title": "Satellite Image and Machine Learning based Knowledge Extraction in the Poverty and Welfare Domain",
+            "categories": [
+                "cs.CY",
+                "cs.AI",
+                "econ.GN",
+                "q-fin.EC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01068v1",
+            "references": []
+        },
+        {
+            "id": "2203.01027v1",
+            "authors": [
+                "Giuseppe Paolo"
+            ],
+            "date": "2022-03-02",
+            "title": "Learning in Sparse Rewards settings through Quality-Diversity algorithms",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.NE"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01027v1",
+            "references": []
+        },
+        {
+            "id": "2203.01024v1",
+            "authors": [
+                "Carmine Dodaro",
+                "Marco Maratea",
+                "Mauro Vallati"
+            ],
+            "date": "2022-03-02",
+            "title": "On the Configuration of More and Less Expressive Logic Programs",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01024v1",
+            "references": []
+        },
+        {
+            "id": "2203.01012v1",
+            "authors": [
+                "Timoth\u00e9e Lesort"
+            ],
+            "date": "2022-03-02",
+            "title": "Continual Feature Selection: Spurious Features in Continual Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01012v1",
+            "references": []
+        },
+        {
+            "id": "2203.01004v1",
+            "authors": [
+                "Li Meng",
+                "Morten Goodwin",
+                "Anis Yazidi",
+                "Paal Engelstad"
+            ],
+            "date": "2022-03-02",
+            "title": "Improving the Diversity of Bootstrapped DQN via Noisy Priors",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01004v1",
+            "references": []
+        },
+        {
+            "id": "2203.00999v1",
+            "authors": [
+                "Vikram Singh",
+                "Vikram Singh"
+            ],
+            "date": "2022-03-02",
+            "title": "Characterizing the organizational diversity of protein interaction networks across three domains of life",
+            "categories": [
+                "q-bio.MN",
+                "cs.AI",
+                "q-bio.BM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00999v1",
+            "references": []
+        },
+        {
+            "id": "2203.00971v1",
+            "authors": [
+                "Fan Jin",
+                "Ke Zhang",
+                "Yipan Huang",
+                "Yifei Zhu",
+                "Baiping Chen"
+            ],
+            "date": "2022-03-02",
+            "title": "Parallel Spatio-Temporal Attention-Based TCN for Multivariate Time Series Prediction",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": "10.1007/S00521-021-05958-Z",
+            "url": "http://arxiv.org/pdf/2203.00971v1",
+            "references": []
+        },
+        {
+            "id": "2203.00964v1",
+            "authors": [
+                "Wen Zhang",
+                "Chi-Man Wong",
+                "Ganqinag Ye",
+                "Bo Wen",
+                "Hongting Zhou",
+                "Wei Zhang",
+                "Huajun Chen"
+            ],
+            "date": "2022-03-02",
+            "title": "PKGM: A Pre-trained Knowledge Graph Model for E-commerce Application",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00964v1",
+            "references": []
+        },
+        {
+            "id": "2203.00951v1",
+            "authors": [
+                "Pengyu Cheng",
+                "Zhenhua Ling"
+            ],
+            "date": "2022-03-02",
+            "title": "Speaker Adaption with Intuitive Prosodic Features for Statistical Parametric Speech Synthesis",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "eess.AS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00951v1",
+            "references": []
+        },
+        {
+            "id": "2203.00938v1",
+            "authors": [
+                "Xuan Xie",
+                "Kristian Kersting",
+                "Daniel Neider"
+            ],
+            "date": "2022-03-02",
+            "title": "Neuro-Symbolic Verification of Deep Neural Networks",
+            "categories": [
+                "cs.AI",
+                "cs.LG",
+                "cs.LO",
+                "F.3.1; I.2.0"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00938v1",
+            "references": []
+        },
+        {
+            "id": "2203.00907v1",
+            "authors": [
+                "Xiaokun Feng",
+                "Xiaotang Chen",
+                "Kaiqi Huang"
+            ],
+            "date": "2022-03-02",
+            "title": "A Split Semantic Detection Algorithm for Psychological Sandplay Image",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00907v1",
+            "references": []
+        },
+        {
+            "id": "2203.00905v1",
+            "authors": [
+                "Qinghua Lu",
+                "Liming Zhu",
+                "Xiwei Xu",
+                "Jon Whittle"
+            ],
+            "date": "2022-03-02",
+            "title": "Responsible-AI-by-Design: a Pattern Collection for Designing Responsible AI Systems",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00905v1",
+            "references": []
+        },
+        {
+            "id": "2203.00904v2",
+            "authors": [
+                "Zihan Wang",
+                "Zhangjie Cao",
+                "Yilun Hao",
+                "Dorsa Sadigh"
+            ],
+            "date": "2022-03-02",
+            "title": "Weakly Supervised Correspondence Learning",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00904v2",
+            "references": []
+        },
+        {
+            "id": "2203.00903v1",
+            "authors": [
+                "Yong Liang Goh",
+                "Wee Sun Lee",
+                "Xavier Bresson",
+                "Thomas Laurent",
+                "Nicholas Lim"
+            ],
+            "date": "2022-03-02",
+            "title": "Combining Reinforcement Learning and Optimal Transport for the Traveling Salesman Problem",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "math.OC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00903v1",
+            "references": []
+        },
+        {
+            "id": "2203.00899v2",
+            "authors": [
+                "Rajkumar Vaghashiya",
+                "Sanghoon Shin",
+                "Varun Chauhan",
+                "Kaushal Kapadiya",
+                "Smit Sanghavi",
+                "Sungkyu Seo",
+                "Mohendra Roy"
+            ],
+            "date": "2022-03-02",
+            "title": "Machine learning based lens-free imaging technique for field-portable cytometry",
+            "categories": [
+                "eess.IV",
+                "cs.AI"
+            ],
+            "journal": "https://www.mdpi.com/2079-6374/12/3/144",
+            "doi": "10.48550/arXiv.2203.00899",
+            "url": "http://arxiv.org/pdf/2203.00899v2",
+            "references": []
+        },
+        {
+            "id": "2203.00885v1",
+            "authors": [
+                "Hardik Meisheri",
+                "Somjit Nath",
+                "Mayank Baranwal",
+                "Harshad Khadilkar"
+            ],
+            "date": "2022-03-02",
+            "title": "A Learning Based Framework for Handling Uncertain Lead Times in Multi-Product Inventory Management",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "math.OC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00885v1",
+            "references": []
+        },
+        {
+            "id": "2203.00874v1",
+            "authors": [
+                "Somjit Nath",
+                "Omkar Shelke",
+                "Durgesh Kalwar",
+                "Hardik Meisheri",
+                "Harshad Khadilkar"
+            ],
+            "date": "2022-03-02",
+            "title": "Follow your Nose: Using General Value Functions for Directed Exploration in Reinforcement Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00874v1",
+            "references": []
+        },
+        {
+            "id": "2203.00872v1",
+            "authors": [
+                "Seyed A. Esmaeili",
+                "Hayley Grape",
+                "Brian Brubach"
+            ],
+            "date": "2022-03-02",
+            "title": "Centralized Fairness for Redistricting",
+            "categories": [
+                "cs.GT",
+                "cs.AI",
+                "cs.CY",
+                "cs.DS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00872v1",
+            "references": []
+        },
+        {
+            "id": "2203.00854v2",
+            "authors": [
+                "Shenggan Cheng",
+                "Ruidong Wu",
+                "Zhongming Yu",
+                "Binrui Li",
+                "Xiwen Zhang",
+                "Jian Peng",
+                "Yang You"
+            ],
+            "date": "2022-03-02",
+            "title": "FastFold: Reducing AlphaFold Training Time from 11 Days to 67 Hours",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.DC",
+                "q-bio.QM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00854v2",
+            "references": []
+        },
+        {
+            "id": "2203.01323v1",
+            "authors": [
+                "Wei Dai",
+                "Daniel Berleant"
+            ],
+            "date": "2022-03-02",
+            "title": "Benchmarking Robustness of Deep Learning Classifiers Using Two-Factor Perturbation",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.GR"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01323v1",
+            "references": []
+        },
+        {
+            "id": "2203.01322v1",
+            "authors": [
+                "Venkat Kodali",
+                "Daniel Berleant"
+            ],
+            "date": "2022-03-02",
+            "title": "Recent, rapid advancement in visual question answering architecture",
+            "categories": [
+                "cs.CV",
+                "cs.AI",
+                "cs.CL",
+                "cs.MM"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01322v1",
+            "references": []
+        },
+        {
+            "id": "2203.00845v1",
+            "authors": [
+                "Saikat Dutta",
+                "Sourya Dipta Das",
+                "Nisarg A. Shah"
+            ],
+            "date": "2022-03-02",
+            "title": "Can No-reference features help in Full-reference image quality estimation?",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00845v1",
+            "references": []
+        },
+        {
+            "id": "2203.00822v1",
+            "authors": [
+                "Xiao Liu",
+                "Shuyang Liu",
+                "Wenbin Li",
+                "Shangdong Yang",
+                "Yang Gao"
+            ],
+            "date": "2022-03-02",
+            "title": "Keeping Minimal Experience to Achieve Efficient Interpretable Policy Distillation",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00822v1",
+            "references": []
+        },
+        {
+            "id": "2203.00819v1",
+            "authors": [
+                "Duzhen Zhang",
+                "Zhen Yang",
+                "Fandong Meng",
+                "Xiuyi Chen",
+                "Jie Zhou"
+            ],
+            "date": "2022-03-02",
+            "title": "TSAM: A Two-Stream Attention Model for Causal Emotion Entailment",
+            "categories": [
+                "cs.CL",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00819v1",
+            "references": []
+        },
+        {
+            "id": "2203.00815v1",
+            "authors": [
+                "Ayman Alahmar",
+                "Ola Alkhatib"
+            ],
+            "date": "2022-03-02",
+            "title": "Computerization of Clinical Pathways: A Literature Review and Directions for Future Research",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": "2nd. International Symposium of Scientific Research and Innovative\n  Studies (ISSRIS'22), March 2-5, 2022",
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00815v1",
+            "references": []
+        },
+        {
+            "id": "2203.00812v1",
+            "authors": [
+                "Binbin Gu",
+                "Saeed Kargar",
+                "Faisal Nawab"
+            ],
+            "date": "2022-03-02",
+            "title": "Efficient Dynamic Clustering: Capturing Patterns fromHistorical Cluster Evolution",
+            "categories": [
+                "cs.DB",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00812v1",
+            "references": []
+        },
+        {
+            "id": "2203.00807v1",
+            "authors": [
+                "Joshua Knights",
+                "Peyman Moghadam",
+                "Milad Ramezani",
+                "Sridha Sridharan",
+                "Clinton Fookes"
+            ],
+            "date": "2022-03-02",
+            "title": "InCloud: Incremental Learning for Point Cloud Place Recognition",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00807v1",
+            "references": []
+        },
+        {
+            "id": "2203.00798v1",
+            "authors": [
+                "Jingxi Xu",
+                "Shuran Song",
+                "Matei Ciocarlie"
+            ],
+            "date": "2022-03-01",
+            "title": "TANDEM: Learning Joint Exploration and Decision Making with Tactile Sensors",
+            "categories": [
+                "cs.RO",
+                "cs.AI",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00798v1",
+            "references": []
+        },
+        {
+            "id": "2203.00772v1",
+            "authors": [
+                "Aditya Rajagopal",
+                "Christos-Savvas Bouganis"
+            ],
+            "date": "2022-03-01",
+            "title": "Low-Cost On-device Partial Domain Adaptation (LoCO-PDA): Enabling efficient CNN retraining on edge devices",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00772v1",
+            "references": []
+        },
+        {
+            "id": "2203.00758v1",
+            "authors": [
+                "Xingyu Fu",
+                "Ben Zhou",
+                "Ishaan Preetam Chandratreya",
+                "Carl Vondrick",
+                "Dan Roth"
+            ],
+            "date": "2022-03-01",
+            "title": "There is a Time and Place for Reasoning Beyond the Image",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00758v1",
+            "references": []
+        },
+        {
+            "id": "2203.00734v1",
+            "authors": [
+                "Divya Bhargavi",
+                "Erika Pelaez Coyotl",
+                "Sia Gholami"
+            ],
+            "date": "2022-03-01",
+            "title": "Knock, knock. Who's there? -- Identifying football player jersey numbers with synthetic data",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00734v1",
+            "references": []
+        },
+        {
+            "id": "2203.00725v1",
+            "authors": [
+                "Yufeng Yang",
+                "Peidong Wang",
+                "DeLiang Wang"
+            ],
+            "date": "2022-03-01",
+            "title": "A Conformer Based Acoustic Model for Robust Automatic Speech Recognition",
+            "categories": [
+                "cs.SD",
+                "cs.AI",
+                "cs.CL",
+                "eess.AS"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.00725v1",
+            "references": []
+        },
+        {
+            "id": "2201.11691v1",
+            "authors": [
+                "Dmitri A. Rachkovskij",
+                "Denis Kleyko"
+            ],
+            "date": "2022-01-27",
+            "title": "Recursive Binding for Similarity-Preserving Hypervector Representations of Sequences",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11691v1",
+            "references": []
+        },
+        {
+            "id": "2201.11691v1",
+            "authors": [
+                "Dmitri A. Rachkovskij",
+                "Denis Kleyko"
+            ],
+            "date": "2022-01-27",
+            "title": "Recursive Binding for Similarity-Preserving Hypervector Representations of Sequences",
+            "categories": [
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11691v1",
+            "references": []
+        },
+        {
+            "id": "1605.08386v1",
+            "authors": [
+                "Caprice Stanley",
+                "Tobias Windisch"
+            ],
+            "date": "2016-05-26",
+            "title": "Heat-bath random walks with Markov bases",
+            "categories": [
+                "math.CO",
+                "math.ST",
+                "stat.TH",
+                "Primary: 05C81, Secondary: 37A25, 11P21"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/1605.08386v1",
+            "references": []
+        },
+        {
+            "id": "2202.01661v1",
+            "authors": [
+                "Anay Mehrotra",
+                "Bary S. R. Pradelski",
+                "Nisheeth K. Vishnoi"
+            ],
+            "date": "2022-02-03",
+            "title": "Selection in the Presence of Implicit Bias: The Advantage of Intersectional Constraints",
+            "categories": [
+                "cs.CY",
+                "cs.AI",
+                "cs.LG",
+                "econ.TH",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01661v1",
+            "references": []
+        },
+        {
+            "id": "2201.11701v1",
+            "authors": [
+                "Joseph Early",
+                "Christine Evers",
+                "Sarvapali Ramchurn"
+            ],
+            "date": "2022-01-27",
+            "title": "Model Agnostic Interpretability for Multiple Instance Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11701v1",
+            "references": []
+        },
+        {
+            "id": "2201.11701v1",
+            "authors": [
+                "Joseph Early",
+                "Christine Evers",
+                "Sarvapali Ramchurn"
+            ],
+            "date": "2022-01-27",
+            "title": "Model Agnostic Interpretability for Multiple Instance Learning",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11701v1",
+            "references": []
+        },
+        {
+            "id": "2202.01802v1",
+            "authors": [
+                "Tingting Liu",
+                "Salvatore Giorgi",
+                "Xiangyu Tao",
+                "Douglas Bellew",
+                "Brenda Curtis",
+                "Lyle Ungar"
+            ],
+            "date": "2022-02-03",
+            "title": "Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.HC",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01802v1",
+            "references": []
+        },
+        {
+            "id": "2202.01802v1",
+            "authors": [
+                "Tingting Liu",
+                "Salvatore Giorgi",
+                "Xiangyu Tao",
+                "Douglas Bellew",
+                "Brenda Curtis",
+                "Lyle Ungar"
+            ],
+            "date": "2022-02-03",
+            "title": "Cross-Platform Difference in Facebook and Text Messages Language Use: Illustrated by Depression Diagnosis",
+            "categories": [
+                "cs.CL",
+                "cs.AI",
+                "cs.HC",
+                "cs.LG"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01802v1",
+            "references": []
+        },
+        {
+            "id": "2202.01752v1",
+            "authors": [
+                "Yu Bai",
+                "Chi Jin",
+                "Song Mei",
+                "Tiancheng Yu"
+            ],
+            "date": "2022-02-03",
+            "title": "Near-Optimal Learning of Extensive-Form Games with Imperfect Information",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "cs.GT",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01752v1",
+            "references": []
+        },
+        {
+            "id": "2202.02145v1",
+            "authors": [
+                "Luca Canale",
+                "Nicolas Grislain",
+                "Gr\u00e9goire Lothe",
+                "Johan Leduc"
+            ],
+            "date": "2022-02-04",
+            "title": "Generative Modeling of Complex Data",
+            "categories": [
+                "cs.LG",
+                "cs.AI",
+                "stat.ML"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.02145v1",
+            "references": []
+        },
+        {
+            "id": "2202.01645v1",
+            "authors": [
+                "Valerio De Caro",
+                "Saira Bano",
+                "Achilles Machumilane",
+                "Alberto Gotta",
+                "Pietro Cassar\u00e1",
+                "Antonio Carta",
+                "Christos Sardianos",
+                "Christos Chronis",
+                "Iraklis Varlamis",
+                "Konstantinos Tserpes",
+                "Vincenzo Lomonaco",
+                "Claudio Gallicchio",
+                "Davide Bacciu"
+            ],
+            "date": "2022-02-03",
+            "title": "AI-as-a-Service Toolkit for Human-Centered Intelligence in Autonomous Driving",
+            "categories": [
+                "cs.AI",
+                "cs.HC"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01645v1",
+            "references": []
+        },
+        {
+            "id": "2201.11632v1",
+            "authors": [
+                "Chenyang Lei",
+                "Yazhou Xing",
+                "Hao Ouyang",
+                "Qifeng Chen"
+            ],
+            "date": "2022-01-27",
+            "title": "Deep Video Prior for Video Consistency and Propagation",
+            "categories": [
+                "cs.CV",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11632v1",
+            "references": []
+        },
+        {
+            "id": "2201.11726v1",
+            "authors": [
+                "Yuri Lavinas",
+                "Claus Aranha",
+                "Gabriela Ochoa"
+            ],
+            "date": "2022-01-27",
+            "title": "Search Trajectories Networks of Multiobjective Evolutionary Algorithms",
+            "categories": [
+                "cs.NE",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2201.11726v1",
+            "references": []
+        },
+        {
+            "id": "2202.01971v1",
+            "authors": [
+                "Yifeng Zheng",
+                "Shangqi Lai",
+                "Yi Liu",
+                "Xingliang Yuan",
+                "Xun Yi",
+                "Cong Wang"
+            ],
+            "date": "2022-02-04",
+            "title": "Aggregation Service for Federated Learning: An Efficient, Secure, and More Resilient Realization",
+            "categories": [
+                "cs.CR",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01971v1",
+            "references": []
+        },
+        {
+            "id": "2203.01940v1",
+            "authors": [
+                "Hussam Azzuni",
+                "Muhammad Ridzuan",
+                "Min Xu",
+                "Mohammad Yaqub"
+            ],
+            "date": "2022-03-03",
+            "title": "Color Space-based HoVer-Net for Nuclei Instance Segmentation and Classification",
+            "categories": [
+                "eess.IV",
+                "cs.AI",
+                "cs.CV"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2203.01940v1",
+            "references": []
+        },
+        {
+            "id": "2202.01987v1",
+            "authors": [
+                "Chieh-Hsin Lai",
+                "Dongmian Zou",
+                "Gilad Lerman"
+            ],
+            "date": "2022-02-04",
+            "title": "Robust Vector Quantized-Variational Autoencoder",
+            "categories": [
+                "cs.LG",
+                "cs.AI"
+            ],
+            "journal": null,
+            "doi": null,
+            "url": "http://arxiv.org/pdf/2202.01987v1",
+            "references": []
+        }
+    ]
+}

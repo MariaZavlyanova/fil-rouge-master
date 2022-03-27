@@ -1,0 +1,22 @@
+{
+    "Papers":
+        [
+            {"Id" : "",
+            "Authors" : "",
+            "Date" : "",
+            "Title" : "",
+            "Categories" : "",
+            "Journal" : "",
+            "Doi" : "",
+            "Url" : "",
+            "References" : [
+                    {"Id" : "",
+                    "Authors" : "",
+                    "Date" : "",
+                    "Title" : "",
+                    "Categories" : "",
+                    "Journal" : "",
+                    "Doi" : "",
+                    "Url" : ""}]}
+        ]
+}
