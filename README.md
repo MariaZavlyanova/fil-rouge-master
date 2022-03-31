@@ -62,7 +62,7 @@ Install requirements from txt file:
 
 # Access to the dataset via API
 Lancer l'API
-    $ cd fastapi/
+    $ cd code/app/
     $ uvicorn main:app --reload
 
 open http://127.0.0.1:8000 in a browser
@@ -117,34 +117,6 @@ for example: http://192.168.99.100/items/5?q=somequery or http://127.0.0.1/items
 You will see something like:
         {"item_id": 5, "q": "somequery"}
 
-## References extraction from pdf and make data cleaning
-objectif : text file, one reference per line for one article
-    $ cd code/app/init_data/
-    $ python references.py
-
-Les types de pdf que je peux traiter :
-  - references citées [1], [2]...
-        - une colonne : type 1_1
-        - deux colonnes : type 1_2
-  - references citées (Hoda et al., 2010; Kroer et al.,2015)
-        - une colonne : type 2_1
-        - deux colonnes : type 2_2
-
-
-
-
-# TODO Connection pour la fonction Lambda
-Aller sur awsacademy.instructure.com
-aller dans learning lab
-AWS Details
-Download URL, copier le lien et aller dessus
-
-
-## Exigences
-Docker TODO 1
-Service AWS TODO 1
-C4 pour documenter le model
-Normes : normes des citations
 
 ## OWL
 - Auteur (a écrit un article)
