@@ -1,5 +1,5 @@
 # start from the official python base image
-FROM python:3.9
+FROM python:3.7
 
 # set the curretn working directory to /code
 # this is where we'll put the reauirements.txt file and the app directory
