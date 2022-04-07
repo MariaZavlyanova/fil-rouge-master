@@ -56,12 +56,17 @@ Install requirements from txt file:
 
 
 ## Create json dataset
+
+Cette partie a déjà été initialisée, il faudrai supprimer le fichier avant de vouloir recommencer, si non il y aura des doublons
+
     $ cd code/app/init_data/
     $ python dataset.py
-     # change the number of articles you want to extracted in the code
+    # changer le nomre d'articles qui seront extraits dans le code
 
 # Access to the dataset via API
+
 Lancer l'API
+
     $ cd code/app/
     $ uvicorn main:app --reload
 
@@ -79,8 +84,11 @@ You only need the id of the pdf:
     Route: /extract_metadata/<pdf_id>
     # Replace <id> by ID of the chosen document
     # The ID is the id of the URL
+
 Example :
+
 for the URL : http://arxiv.org/pdf/2202.01645v1
+
 the API method is : http://127.0.0.1:8000/extract_metadata/2202.01645v1
 
 ### Extract Metadata from an uploaded metadata
@@ -93,11 +101,15 @@ Get the metadata that we already have:
     Route: /metadata/<pdf_id>
     # Replace <id> by ID of the chosen document
     # The ID is the id of the URL
+
 Example :
+
 for the URL : http://arxiv.org/pdf/2202.01645v1
+
 the API method is : http://127.0.0.1:8000/metadata/2202.01645v1
 
 # OpenApi method
+
     http://127.0.0.1:8000/redoc
 
 # FastAPI in Containers - Docker
@@ -112,19 +124,27 @@ the API method is : http://127.0.0.1:8000/metadata/2202.01645v1
 ## Check it :
 
 You should be able to check it in your Docker container's URL, 
+
 for example: http://192.168.99.100/items/5?q=somequery or http://127.0.0.1/items/5?q=somequery (or equivalent, using your Docker host).
 
 You will see something like:
+
         {"item_id": 5, "q": "somequery"}
 
 
 ## OWL
 - Auteur (a écrit un article)
+
         - Auteur cité (a écrit un article, cité par un auteur) sous classe de Auteur
+
                 - Inluenceur (a été cité par au moins 10 auteur) sous classe de auteur cité
+
                 - Auteur de niche (a été cité par un Auteur maximum)
 
 - Article (ecrit par un auteur) - a une année
+
         - Article cité (cité par un auteur) sous classe de article
+
                 - Article important (INDEX DE CITATION supérieur à 10 (échelle de ma BDD)) sous classe de article cité
+                
                 - Article de niche (a été cité par un Auteur maximum)
