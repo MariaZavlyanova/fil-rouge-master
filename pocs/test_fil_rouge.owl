@@ -4,7 +4,8 @@
          xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
          xmlns:owl="http://www.w3.org/2002/07/owl#"
          xml:base="http://test_fil_rouge.org/onto.owl"
-         xmlns="http://test_fil_rouge.org/onto.owl#">
+         xmlns="http://test_fil_rouge.org/onto.owl#"
+         xmlns:swrl="http://www.w3.org/2003/11/swrl#">
 
 <owl:Ontology rdf:about="http://test_fil_rouge.org/onto.owl"/>
 
@@ -53,6 +54,10 @@
 
 <owl:Class rdf:about="#Article">
   <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<owl:Class rdf:about="#InterestingAuthor">
+  <rdfs:subClassOf rdf:resource="#ConnectedAuthor"/>
 </owl:Class>
 
 <Article rdf:about="#Article0">
@@ -138,32 +143,38 @@
 <Author rdf:about="#Bob">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <wrote_Article rdf:resource="#Article0"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</has_number_citations>
 </Author>
 
 <Author rdf:about="#Arthur">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <wrote_Article rdf:resource="#Article0"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</has_number_citations>
 </Author>
 
 <Author rdf:about="#David">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <wrote_Article rdf:resource="#Article1"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</has_number_citations>
 </Author>
 
 <Author rdf:about="#Nassim">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <wrote_Article rdf:resource="#Article2"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</has_number_citations>
 </Author>
 
 <Author rdf:about="#Safia">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <wrote_Article rdf:resource="#Article3"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</has_number_citations>
 </Author>
 
 <ConnectedAuthor rdf:about="#Cécile">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
   <quoted_in rdf:resource="#Article0"/>
   <quoted_in rdf:resource="#Article3"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</has_number_citations>
 </ConnectedAuthor>
 
 <ConnectedAuthor rdf:about="#Nathalie">
@@ -175,6 +186,7 @@
   <quoted_in rdf:resource="#Article4"/>
   <quoted_in rdf:resource="#Article5"/>
   <quoted_in rdf:resource="#Article6"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</has_number_citations>
 </ConnectedAuthor>
 
 <ConnectedAuthor rdf:about="#Julie">
@@ -182,7 +194,146 @@
   <quoted_in rdf:resource="#Article3"/>
   <quoted_in rdf:resource="#Article4"/>
   <quoted_in rdf:resource="#Article5"/>
+  <has_number_citations rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</has_number_citations>
 </ConnectedAuthor>
+
+<swrl:Variable rdf:about="urn:swrl#r"/>
+
+<swrl:Variable rdf:about="urn:swrl#a"/>
+
+<swrl:Variable rdf:about="urn:swrl#c"/>
+
+<swrl:Variable rdf:about="urn:swrl#x"/>
+
+<swrl:Imp>
+  <swrl:head>
+    <rdf:Description>
+      <rdf:first>
+        <swrl:ClassAtom>
+          <swrl:classPredicate rdf:resource="#InterestingAuthor"/>
+          <swrl:argument1 rdf:resource="urn:swrl#c"/>
+        </swrl:ClassAtom>
+      </rdf:first>
+      <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    </rdf:Description>
+  </swrl:head>
+  <swrl:body>
+    <rdf:Description>
+      <rdf:rest>
+        <rdf:Description>
+          <rdf:rest>
+            <rdf:Description>
+              <rdf:first>
+                <swrl:BuiltinAtom>
+                  <swrl:arguments>
+                    <rdf:Description>
+                      <rdf:rest>
+                        <rdf:Description>
+                          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                          <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</rdf:first>
+                        </rdf:Description>
+                      </rdf:rest>
+                      <rdf:first rdf:resource="urn:swrl#x"/>
+                    </rdf:Description>
+                  </swrl:arguments>
+                  <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#greaterThan"/>
+                </swrl:BuiltinAtom>
+              </rdf:first>
+              <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+          </rdf:rest>
+          <rdf:first>
+            <swrl:DatavaluedPropertyAtom>
+              <swrl:propertyPredicate rdf:resource="#has_number_citations"/>
+              <swrl:argument1 rdf:resource="urn:swrl#c"/>
+              <swrl:argument2 rdf:resource="urn:swrl#x"/>
+            </swrl:DatavaluedPropertyAtom>
+          </rdf:first>
+        </rdf:Description>
+      </rdf:rest>
+      <rdf:first>
+        <swrl:ClassAtom>
+          <swrl:classPredicate rdf:resource="#ConnectedAuthor"/>
+          <swrl:argument1 rdf:resource="urn:swrl#c"/>
+        </swrl:ClassAtom>
+      </rdf:first>
+    </rdf:Description>
+  </swrl:body>
+</swrl:Imp>
+
+<swrl:Imp>
+  <swrl:head>
+    <rdf:Description>
+      <rdf:first>
+        <swrl:ClassAtom>
+          <swrl:classPredicate rdf:resource="#ConnectedAuthor"/>
+          <swrl:argument1 rdf:resource="urn:swrl#a"/>
+        </swrl:ClassAtom>
+      </rdf:first>
+      <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    </rdf:Description>
+  </swrl:head>
+  <swrl:body>
+    <rdf:Description>
+      <rdf:rest>
+        <rdf:Description>
+          <rdf:first>
+            <swrl:IndividualPropertyAtom>
+              <swrl:propertyPredicate rdf:resource="#quoted_in"/>
+              <swrl:argument2 rdf:resource="urn:swrl#r"/>
+              <swrl:argument1 rdf:resource="urn:swrl#a"/>
+            </swrl:IndividualPropertyAtom>
+          </rdf:first>
+          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+        </rdf:Description>
+      </rdf:rest>
+      <rdf:first>
+        <swrl:ClassAtom>
+          <swrl:classPredicate rdf:resource="#Author"/>
+          <swrl:argument1 rdf:resource="urn:swrl#a"/>
+        </swrl:ClassAtom>
+      </rdf:first>
+    </rdf:Description>
+  </swrl:body>
+</swrl:Imp>
+
+<swrl:Imp>
+  <swrl:head>
+    <rdf:Description>
+      <rdf:first>
+        <swrl:IndividualPropertyAtom>
+          <swrl:propertyPredicate rdf:resource="#quoted_Auteur"/>
+          <swrl:argument1 rdf:resource="urn:swrl#a"/>
+          <swrl:argument2 rdf:resource="urn:swrl#c"/>
+        </swrl:IndividualPropertyAtom>
+      </rdf:first>
+      <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    </rdf:Description>
+  </swrl:head>
+  <swrl:body>
+    <rdf:Description>
+      <rdf:rest>
+        <rdf:Description>
+          <rdf:first>
+            <swrl:IndividualPropertyAtom>
+              <swrl:propertyPredicate rdf:resource="#quoted_in"/>
+              <swrl:argument2 rdf:resource="urn:swrl#r"/>
+              <swrl:argument1 rdf:resource="urn:swrl#c"/>
+            </swrl:IndividualPropertyAtom>
+          </rdf:first>
+          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+        </rdf:Description>
+      </rdf:rest>
+      <rdf:first>
+        <swrl:IndividualPropertyAtom>
+          <swrl:propertyPredicate rdf:resource="#wrote_Article"/>
+          <swrl:argument1 rdf:resource="urn:swrl#r"/>
+          <swrl:argument2 rdf:resource="urn:swrl#a"/>
+        </swrl:IndividualPropertyAtom>
+      </rdf:first>
+    </rdf:Description>
+  </swrl:body>
+</swrl:Imp>
 
 
 </rdf:RDF>
