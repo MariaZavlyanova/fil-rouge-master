@@ -203,64 +203,6 @@
 
 <swrl:Variable rdf:about="urn:swrl#c"/>
 
-<swrl:Variable rdf:about="urn:swrl#x"/>
-
-<swrl:Imp>
-  <swrl:head>
-    <rdf:Description>
-      <rdf:first>
-        <swrl:ClassAtom>
-          <swrl:classPredicate rdf:resource="#InterestingAuthor"/>
-          <swrl:argument1 rdf:resource="urn:swrl#c"/>
-        </swrl:ClassAtom>
-      </rdf:first>
-      <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-    </rdf:Description>
-  </swrl:head>
-  <swrl:body>
-    <rdf:Description>
-      <rdf:rest>
-        <rdf:Description>
-          <rdf:rest>
-            <rdf:Description>
-              <rdf:first>
-                <swrl:BuiltinAtom>
-                  <swrl:arguments>
-                    <rdf:Description>
-                      <rdf:rest>
-                        <rdf:Description>
-                          <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-                          <rdf:first rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</rdf:first>
-                        </rdf:Description>
-                      </rdf:rest>
-                      <rdf:first rdf:resource="urn:swrl#x"/>
-                    </rdf:Description>
-                  </swrl:arguments>
-                  <swrl:builtin rdf:resource="http://www.w3.org/2003/11/swrlb#greaterThan"/>
-                </swrl:BuiltinAtom>
-              </rdf:first>
-              <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
-            </rdf:Description>
-          </rdf:rest>
-          <rdf:first>
-            <swrl:DatavaluedPropertyAtom>
-              <swrl:propertyPredicate rdf:resource="#has_number_citations"/>
-              <swrl:argument1 rdf:resource="urn:swrl#c"/>
-              <swrl:argument2 rdf:resource="urn:swrl#x"/>
-            </swrl:DatavaluedPropertyAtom>
-          </rdf:first>
-        </rdf:Description>
-      </rdf:rest>
-      <rdf:first>
-        <swrl:ClassAtom>
-          <swrl:classPredicate rdf:resource="#ConnectedAuthor"/>
-          <swrl:argument1 rdf:resource="urn:swrl#c"/>
-        </swrl:ClassAtom>
-      </rdf:first>
-    </rdf:Description>
-  </swrl:body>
-</swrl:Imp>
-
 <swrl:Imp>
   <swrl:head>
     <rdf:Description>
